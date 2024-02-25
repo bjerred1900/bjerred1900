@@ -7,6 +7,7 @@ def lowercase_filenames() -> None:
     for file in os.listdir():
         if file.endswith('.md'):
             os.rename(file, file.lower())
+
     # also check for each jpg, jpeg, png, gif, and svg file in the images directory
     for file in os.listdir('images'):
         if file.endswith('.jpg') or file.endswith('.jpeg') or file.endswith('.png') or file.endswith('.gif') or file.endswith('.svg'):
