@@ -31,19 +31,37 @@ def update_inbound_references() -> None:
             
             # Remove existing "Referenser till denna artikel" section in the other file's content as to not count it as a reference
             other_content = re.sub(r'\n## Referenser till denna artikel\n.*', '', other_content, flags=re.DOTALL)
+
+            # Replace spaces with %20 in the current file name
+            current_file_normalized: str = current_file.replace(' ', '%20').lower()
+
+            # strip .md if current_file_without_spaces ends with that
+            if current_file_normalized.endswith('.md'):
+                current_file_normalized = current_file_normalized[:-3]
             
             # Check if current file is linked within another file
-            pattern = rf'\[{re.escape(current_file[:-3])}\]\({re.escape(current_file)}\)'
+            # pattern = rf'\[{re.escape(current_file[:-3])}\]\({re.escape(current_file)}\)'
+            # pattern = rf'\[{re.escape(current_file_normalized)}\]\({re.escape(current_file_normalized)}\)'
+            # that pattern match doesn't work, so let's try a correct one instead, where the title of the link can be entirely different, it doesn't matter.
+            pattern = rf'\[.*\]\({re.escape(current_file_normalized)}\)'
+
             if re.search(pattern, other_content):
-                references.append(file[:-3])  # Remove .md extension
+                title = re.search(r'# (.*)', other_content).group(1)
+                reference: dict = {
+                    'filename': file[:-3],
+                    'title': title
+                }
+                references.append(reference)  # Remove .md extension
         
         # Append new references section if there are any references
         if references:
             content += '\n## Referenser till denna artikel\n\n'
-            ref: str
+            ref: dict
             for ref in references:
-                link_without_spaces: str = ref.replace(' ', '%20')
-                content += f'* [{ref}]({link_without_spaces}.md)\n'
+                filename: str = ref['filename']
+                title: str = ref['title']
+                link_without_spaces: str = filename.replace(' ', '%20').lower()
+                content += f'* [{title}]({link_without_spaces})\n'
         
         # Write the modified content back to the file
         with open(current_file, 'w', encoding='utf-8') as f:
