@@ -3,10 +3,10 @@
 ## Se även
 
 * [järnväg](järnväg)
-* [Bjärreds järnvägsstation](Bjärreds%20järnvägsstation)
+* [Bjärreds järnvägsstation](bjärreds%20järnvägsstation)
 
 ## Referenser till denna artikel
 
-* [Bjärreds järnvägsstation](Bjärreds%20järnvägsstation)
-* [Fjelie Station](Fjelie%20Station)
-* [järnväg](järnväg)
+* [Bjärreds järnvägsstation](bjärreds%20järnvägsstation)
+* [Fjelie station](fjelie%20station)
+* [Järnväg](järnväg)

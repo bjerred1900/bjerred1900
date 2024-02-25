@@ -2,4 +2,4 @@
 
 ## Referenser till denna artikel
 
-* [Borgeby Slott](Borgeby%20Slott)
+* [Borgeby Slott](borgeby%20slott)

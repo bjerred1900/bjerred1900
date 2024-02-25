@@ -2,5 +2,5 @@
 
 ## Referenser till denna artikel
 
-* [Bergagården](Bergagården)
-* [Löddesnäs gård](Löddesnäs%20gård)
+* [Bergagården](bergagården)
+* [Löddesnäs gård](löddesnäs%20gård)

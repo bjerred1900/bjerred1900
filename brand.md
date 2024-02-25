@@ -2,4 +2,4 @@
 
 ## Referenser till denna artikel
 
-* [Branden i Bjärreds saltsjöbad](Branden%20i%20Bjärreds%20saltsjöbad)
+* [Branden i Bjärreds saltsjöbad](branden%20i%20bjärreds%20saltsjöbad)

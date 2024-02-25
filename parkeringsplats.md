@@ -2,4 +2,4 @@
 
 ## Referenser till denna artikel
 
-* [Restaurangen vid Bjärreds saltsjöbad](Restaurangen%20vid%20Bjärreds%20saltsjöbad)
+* [Restaurangen vid Bjärreds saltsjöbad](restaurangen%20vid%20bjärreds%20saltsjöbad)

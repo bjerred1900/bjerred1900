@@ -2,4 +2,4 @@
 
 ## Referenser till denna artikel
 
-* [Theodor Wåhlin](Theodor%20Wåhlin)
+* [Theodor Wåhlin](theodor%20wåhlin)

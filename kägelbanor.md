@@ -2,4 +2,4 @@
 
 ## Referenser till denna artikel
 
-* [Bjärreds saltsjöbad](Bjärreds%20saltsjöbad)
+* [Bjärreds saltsjöbad](bjärreds%20saltsjöbad)
