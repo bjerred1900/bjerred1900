@@ -1,3 +1,3 @@
 # Anna Kockum
 
-**Anna Kockum** var en [[person]] från familjen [[Kockum]].
+**Anna Kockum** var en [person](person.md) från familjen [Kockum](Kockum.md).

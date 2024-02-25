@@ -1,3 +1,3 @@
 # Bjärred-Lund-Harlösa Järnvägar
 
-**Bjärred-Lund-Harlösa Järnvägar** drev [[järnväg]]en mellan [[Bjärred]] och [[Lund]], som stannade på [[Bjärreds järnvägsstation]]. Där fanns även stationer längs med järnvägen i [[Fjelie]] och [[Leråkra]].
+**Bjärred-Lund-Harlösa Järnvägar** drev [järnväg](järnväg.md)en mellan [Bjärred](Bjärred.md) och [Lund](Lund.md), som stannade på [Bjärreds järnvägsstation](Bjärreds%20järnvägsstation.md). Där fanns även stationer längs med järnvägen i [Fjelie](Fjelie.md) och [Leråkra](Leråkra.md).

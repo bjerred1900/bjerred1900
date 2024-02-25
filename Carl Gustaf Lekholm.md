@@ -1,6 +1,6 @@
 # Carl Gustaf Lekholm
 
-**Carl Gustaf Lekholm** var en [[person]] som målade flera akvarellmålningar av [[Bjärred]].
+**Carl Gustaf Lekholm** var en [person](person.md) som målade flera akvarellmålningar av [Bjärred](Bjärred.md).
 
 ## Källor
 

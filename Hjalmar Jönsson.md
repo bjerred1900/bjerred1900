@@ -1,3 +1,3 @@
 # Hjalmar Jönsson
 
-**Hjalmar Jönsson** var en [[person]].
+**Hjalmar Jönsson** var en [person](person.md).

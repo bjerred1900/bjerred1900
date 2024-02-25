@@ -1,6 +1,6 @@
 # Villan
 
-**Villan**, även kallat [[Kristinero]] och [[Vitusborg]], var en [[bostad]] på [[Norra Villavägen 15]] i [[Bjärred]]. Villan är relaterad till den närbelägna [[Fyllan]].
+**Villan**, även kallat [Kristinero](Kristinero.md) och [Vitusborg](Vitusborg.md), var en [bostad](bostad.md) på [Norra Villavägen 15](Norra%20Villavägen%2015.md) i [Bjärred](Bjärred.md). Villan är relaterad till den närbelägna [Fyllan](Fyllan.md).
 
 * [Bakgrund](#bakgrund)
 * [Kristinero](#kristinero)
@@ -26,7 +26,7 @@ Det fanns hantverkare av olika slag - tänk så skönt att få allt ordnat på p
 
 ## Kristinero
 
-Vid denna tidpunkten omkring år 1900 avstyckades en tomt Norra Villavägen 15 till [[Georg Lind]], som drev järnhandel i Lund.
+Vid denna tidpunkten omkring år 1900 avstyckades en tomt Norra Villavägen 15 till [Georg Lind](Georg%20Lind.md), som drev järnhandel i Lund.
 
 ### Villan byggs
 
@@ -34,7 +34,7 @@ En villa uppfördes i engelsk stil dvs med karaktäristiskt högt torn i nygotis
 
 Den vackra terrassen utåt havet finns idag kvar liksom mycket annat från byggnationstiden. Denna är utförd i italiensk marmor. Beroende på de höga kostnaderna för detta material är det numera otänkbart med dessa inredningsutsmyckningar.
 
-En vindflöjel på taket är försedd med årtalet [[1902]], det år som villan stod färdig.
+En vindflöjel på taket är försedd med årtalet [1902](1902.md), det år som villan stod färdig.
 
 Bostaden i Lund var uppförd även denna i engelsk stil och med samma sorts tegel, man kan antaga att samma arkitekt var anlitad.
 
@@ -50,11 +50,11 @@ I trädgården finns ett annex, som familjen använde som stallbyggnad.
 
 #### "Fyllan"
 
-Snett emot Kristinero på andra sidan gatan hade ungherrarna i familjen sitt residens på [[Norra Villavägen 24]]. Folkhumorn kallade ungherrarnas hus för "[[fyllan]]" och familjens hus för villan.
+Snett emot Kristinero på andra sidan gatan hade ungherrarna i familjen sitt residens på [Norra Villavägen 24](Norra%20Villavägen%2024.md). Folkhumorn kallade ungherrarnas hus för "[fyllan](fyllan.md)" och familjens hus för villan.
 
 ## Nya ägare: H.P. Berenett
 
-Huset bytte ägare och på [[1920]]-talet var den nye innehavaren en krögare [[H.P. Berenett]] från Malmö som drev Restaurant Stadt Hamburg. Från denna tid finns ett minne kvar. Berenett hade gäss i trädgården, dessa gillade att vistas på strandpromenaden utanför. För detta hade gjorts en lucka i staketet för deras ut och invandring.
+Huset bytte ägare och på [1920](1920.md)-talet var den nye innehavaren en krögare [H.P. Berenett](H.P.%20Berenett.md) från Malmö som drev Restaurant Stadt Hamburg. Från denna tid finns ett minne kvar. Berenett hade gäss i trädgården, dessa gillade att vistas på strandpromenaden utanför. För detta hade gjorts en lucka i staketet för deras ut och invandring.
 
 C.G.Lekholm den person,som är mest bevandrad i Bjerred och dess historia har berättat detta och även målat en tavla med huset och gässens framfart på promenaden. Gässen var stundtals aggressiva och det var inte ovanligt att vild jakt förekom bland de promenerande.
 
@@ -62,7 +62,7 @@ Tavlan finns idag i vår (familjen Gerdman) ägo, till stor glädje för oss. Gr
 
 ## Vitusborg
 
-Villan bytte åter ägare och tillträddes av [[Vitus Pettersson]], husets namn blev nu Vitusborg. Pettersson drev ett bokförlag i Malmö.
+Villan bytte åter ägare och tillträddes av [Vitus Pettersson](Vitus%20Pettersson.md), husets namn blev nu Vitusborg. Pettersson drev ett bokförlag i Malmö.
 
 ### Nudistkoloni
 
@@ -90,3 +90,12 @@ Som sades tidigare försåldes Vitusborg av Malmöföretaget och nya ägare blev
 
 * <https://filer.hembygd.se/lomma/uploads/files/2021/02/05/N%20Villav%C3%A4gen%2015%20o%2024%20.pdf>
 * Britt Gerdman, Ur Medlemsblad 31 (1994)
+
+## Referenser till denna artikel
+
+* [fyllan](fyllan.md)
+* [Georg Lind](Georg%20Lind.md)
+* [kristinero](kristinero.md)
+* [lind](lind.md)
+* [Norra Villavägen 15](Norra%20Villavägen%2015.md)
+* [vitusborg](vitusborg.md)

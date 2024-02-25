@@ -1,1 +1,28 @@
 # Person
+
+## Referenser till denna artikel
+
+* [Anders Olsson](Anders%20Olsson.md)
+* [Anna Kockum](Anna%20Kockum.md)
+* [Axel Andersson](Axel%20Andersson.md)
+* [Berndt August Borg](Berndt%20August%20Borg.md)
+* [Carl Gustaf Lekholm](Carl%20Gustaf%20Lekholm.md)
+* [Erik Bengtsson](Erik%20Bengtsson.md)
+* [Georg Lind](Georg%20Lind.md)
+* [Gunnar Jungquist](Gunnar%20Jungquist.md)
+* [Göta Andersson](Göta%20Andersson.md)
+* [H.P. Berenett](H.P.%20Berenett.md)
+* [Hjalmar Jönsson](Hjalmar%20Jönsson.md)
+* [Hugo Magnusson](Hugo%20Magnusson.md)
+* [Jonas Åkesson](Jonas%20Åkesson.md)
+* [Karna Nilsdotter](Karna%20Nilsdotter.md)
+* [Knut Gyllin](Knut%20Gyllin.md)
+* [Kristina Pettersson](Kristina%20Pettersson.md)
+* [Lars Andersson](Lars%20Andersson.md)
+* [Marcelle Germaine](Marcelle%20Germaine.md)
+* [Moje Björkman-Junggren](Moje%20Björkman-Junggren.md)
+* [Oskar Andersson](Oskar%20Andersson.md)
+* [Per Albert Pettersson](Per%20Albert%20Pettersson.md)
+* [Professor Trägårdh](Professor%20Trägårdh.md)
+* [Stig Andersson](Stig%20Andersson.md)
+* [Walter Reeder](Walter%20Reeder.md)

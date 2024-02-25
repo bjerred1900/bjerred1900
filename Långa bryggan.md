@@ -1,6 +1,6 @@
 # Långa bryggan
 
-**Långa bryggan** är en [[brygga]] i [[Bjärred]]. Den har en historia knuten till det tidigare [[Bjärreds saltsjöbad]]. Långa Bryggan anlades samtidigt som Bjärreds Saltsjöbad byggdes år [[1901]]. Då var även [[järnväg]]en mellan [[Lund]] och Bjärred klar.
+**Långa bryggan** är en [brygga](brygga.md) i [Bjärred](Bjärred.md). Den har en historia knuten till det tidigare [Bjärreds saltsjöbad](Bjärreds%20saltsjöbad.md). Långa Bryggan anlades samtidigt som Bjärreds Saltsjöbad byggdes år [1901](1901.md). Då var även [järnväg](järnväg.md)en mellan [Lund](Lund.md) och Bjärred klar.
 
 ## Anläggning
 
@@ -14,11 +14,11 @@ Badhusets fasad var snickarglad och försedd med flaggstång på det frontespisl
 
 ## Stormar
 
-Bryggan lades ut varje vår och togs in på hösten, om inte stormen hann före. Då blev det till att snickra nya delar som ersättning. De förlorade delarna samlades väl in av de boende bortåt [[Habo Ljung]] för att värma stugorna under vintern. Under kriget behövde militärerna timmer, då försvann badhuset.
+Bryggan lades ut varje vår och togs in på hösten, om inte stormen hann före. Då blev det till att snickra nya delar som ersättning. De förlorade delarna samlades väl in av de boende bortåt [Habo Ljung](Habo%20Ljung.md) för att värma stugorna under vintern. Under kriget behövde militärerna timmer, då försvann badhuset.
 
 ## Ångbåtsförbindelse till Malmö
 
-Ångslupen Thor forslade badsugna [[Malmö]]-bor till Bjärred. Den avgick 2 gånger på vardagar och 4 på sön- och helgdagar. Den lade till en bit utanför Långa bryggan och badgästerna hämtades med mindre båtar. Den långa breda bryggan hade stabila räcken och det fanns balkongliknande utbyggnader på ett par ställen, där det fanns bänkar. Trappor ledde ner till vattnet, där roddbåtarna kunde förtöjas.
+Ångslupen Thor forslade badsugna [Malmö](Malmö.md)-bor till Bjärred. Den avgick 2 gånger på vardagar och 4 på sön- och helgdagar. Den lade till en bit utanför Långa bryggan och badgästerna hämtades med mindre båtar. Den långa breda bryggan hade stabila räcken och det fanns balkongliknande utbyggnader på ett par ställen, där det fanns bänkar. Trappor ledde ner till vattnet, där roddbåtarna kunde förtöjas.
 
 > Längst ut på landsidan om själva badhuset var bryggan också utbyggd och där stod några små bord och stolar så de som hade råd därtill här kunde bli serverade en lemonad. Till vänster d.v.s på södra sidan hade bryggan en lägre etage bara 40 – 50 cm över det normala vattenståndet, där kunde också småbåtar förtöjas.
 >

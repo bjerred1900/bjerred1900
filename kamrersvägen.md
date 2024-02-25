@@ -1,3 +1,3 @@
 # Kamrersvägen
 
-**Kamrersvägen** är en [[väg]] i [[Bjärred]].
+**Kamrersvägen** är en [väg](väg.md) i [Bjärred](Bjärred.md).

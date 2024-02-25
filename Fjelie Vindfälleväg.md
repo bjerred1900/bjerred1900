@@ -1,3 +1,3 @@
 # Fjelie Vindfälleväg
 
-**Fjelie Vindfälleväg** är en [[väg]] i [[Fjelie]].
+**Fjelie Vindfälleväg** är en [väg](väg.md) i [Fjelie](Fjelie.md).

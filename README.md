@@ -1,21 +1,21 @@
 # Bjerred 1900
 
-**Bjerred 1900** är en sida som samlar information och bilder om hur [[Bjärred]] var och såg ut under 1800- och 1900-talet. Sidan är under uppbyggnad och kommer att fyllas på med mer information och bilder allt eftersom.
+**Bjerred 1900** är en sida som samlar information och bilder om hur [Bjärred](Bjärred.md) var och såg ut under 1800- och 1900-talet. Sidan är under uppbyggnad och kommer att fyllas på med mer information och bilder allt eftersom.
 
 ## Bjerred 1900?
 
-Artiklarna på _Bjerred 1900_ tar utgångspunk i året [[1900]]. Sen tittas det hundra år fram och hundra år tillbaka. Detta är tidsperioden som är mest intressant och är huvudfokus för _Bjerred 1900_.
+Artiklarna på _Bjerred 1900_ tar utgångspunk i året [1900](1900.md). Sen tittas det hundra år fram och hundra år tillbaka. Detta är tidsperioden som är mest intressant och är huvudfokus för _Bjerred 1900_.
 
 ## Var börjar jag?
 
 Detta är ett urval av artiklar som finns på sidan och som kan lämpa sig som ingångspunkter för att börja utforska Bjerred 1900.
 
-* [[Bidragit med foton]] (för att se artiklar om vilka som bidragit med foton)
-* [[Bjerehof]]
-* [[Bjärreds saltsjöbad]]
-* [[Område]] (för en översikt över områden som är omnämnda på sidan)
-* [[Ort]] (för en översikt över orter som är omnämnda på sidan)
-* [[Person]] (för en översikt över personer som är omnämnda på sidan)
+* [Bidragit med foton](Bidragit%20med%20foton.md) (för att se artiklar om vilka som bidragit med foton)
+* [Bjerehof](Bjerehof.md)
+* [Bjärreds saltsjöbad](Bjärreds%20saltsjöbad.md)
+* [Område](Område.md) (för en översikt över områden som är omnämnda på sidan)
+* [Ort](Ort.md) (för en översikt över orter som är omnämnda på sidan)
+* [Person](Person.md) (för en översikt över personer som är omnämnda på sidan)
 
 Notera även att i botten av varje artikel finns en lista över relaterade artiklar som kan vara intressanta att utforska.
 
@@ -47,3 +47,7 @@ _Bjerred 1900_ äger inte innehållet i artiklarna, bilderna, eller annat materi
 ## Kontakt
 
 **Email**: <bjerred1900@outlook.com>
+
+## Referenser till denna artikel
+
+* [Bjerred 1900](Bjerred%201900.md)

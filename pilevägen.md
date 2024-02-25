@@ -1,3 +1,3 @@
 # Pilevägen
 
-**Pilevägen** är en [[väg]] i [[Bjärred]].
+**Pilevägen** är en [väg](väg.md) i [Bjärred](Bjärred.md).

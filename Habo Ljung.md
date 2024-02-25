@@ -1,3 +1,3 @@
 # Habo Ljung
 
-**Habo Ljung** är en [[ort]] söder om [[Bjärred]].
+**Habo Ljung** är en [ort](ort.md) söder om [Bjärred](Bjärred.md).

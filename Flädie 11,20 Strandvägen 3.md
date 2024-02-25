@@ -25,7 +25,7 @@ Foton från Benny Nilssons arkiv och med tillstånd för Publicering.
 
 ## Se även
 
-* [[Flädie 11]]
+* [Flädie 11](Flädie%2011.md)
 
 ## Bilder
 

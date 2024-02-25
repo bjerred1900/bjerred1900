@@ -1,3 +1,3 @@
 # Kockum
 
-**Kockum** var en [[släkt]].
+**Kockum** var en [släkt](släkt.md).
