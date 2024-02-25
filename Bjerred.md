@@ -1,7 +1,7 @@
 # Bjerred
 
-En gammal stavning för [Bjärred](Bjärred.md).
+En gammal stavning för [Bjärred](Bjärred).
 
 ## Referenser till denna artikel
 
-* [Bjärred](Bjärred.md)
+* [Bjärred](Bjärred)

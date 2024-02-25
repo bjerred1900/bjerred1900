@@ -5,9 +5,9 @@ dateCreated: 1931
 
 # Bjeres väg 20
 
-**Bjeres väg 20** är en [adress](adress.md) på [Bjeres väg](Bjeres%20väg.md). Se även [Fläde 22,195](Fläde%2022,195.md) och [Trädgårdsmästarens hus](Trädgårdsmästarens%20hus.md). Huset byggdes [1931](1931.md).
+**Bjeres väg 20** är en [adress](adress) på [Bjeres väg](Bjeres%20väg). Se även [Fläde 22,195](Fläde%2022,195) och [Trädgårdsmästarens hus](Trädgårdsmästarens%20hus). Huset byggdes [1931](1931).
 
-[Stig Andersson](Stig%20Andersson.md) och hustrun [Göta Andersson](Göta%20Andersson.md) flyttade in på andra våningen i det sydöstra huset (Bjeres väg 20) runt år [1945](1945.md). Då fanns det ett [bageri](bageri.md) på nedre våningen med bakugnar i källaren.
+[Stig Andersson](Stig%20Andersson) och hustrun [Göta Andersson](Göta%20Andersson) flyttade in på andra våningen i det sydöstra huset (Bjeres väg 20) runt år [1945](1945). Då fanns det ett [bageri](bageri) på nedre våningen med bakugnar i källaren.
 
 ![Bjerehof_005](images/Bjerehof_005.png)
-[Trädgårdsmästarens hus](Trädgårdsmästarens%20hus.md) på Bjeres väg på [1960](1960.md)-talet.
+[Trädgårdsmästarens hus](Trädgårdsmästarens%20hus) på Bjeres väg på [1960](1960)-talet.

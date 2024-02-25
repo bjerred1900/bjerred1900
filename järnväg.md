@@ -1,16 +1,16 @@
 # Järnväg
 
-**Järnväg** användes som en metod för [transport](transport.md) mellan [Bjärred](Bjärred.md) och [Lund](Lund.md). Järnvägen stannade på [Bjärreds järnvägsstation](Bjärreds%20järnvägsstation.md) och ägdes av [Bjärred-Lund-Harlösa Järnvägar](Bjärred-Lund-Harlösa%20Järnvägar.md).
+**Järnväg** användes som en metod för [transport](transport) mellan [Bjärred](Bjärred) och [Lund](Lund). Järnvägen stannade på [Bjärreds järnvägsstation](Bjärreds%20järnvägsstation) och ägdes av [Bjärred-Lund-Harlösa Järnvägar](Bjärred-Lund-Harlösa%20Järnvägar).
 
 ## Se även
 
-[järnvägsstation](järnvägsstation.md)
+[järnvägsstation](järnvägsstation)
 
 ## Referenser till denna artikel
 
-* [Bjärred-Lund-Harlösa Järnvägar](Bjärred-Lund-Harlösa%20Järnvägar.md)
-* [Bjärreds järnvägsstation](Bjärreds%20järnvägsstation.md)
-* [Fjelie Station](Fjelie%20Station.md)
-* [järnvägsstation](järnvägsstation.md)
-* [Långa bryggan](Långa%20bryggan.md)
-* [ånglok](ånglok.md)
+* [Bjärred-Lund-Harlösa Järnvägar](Bjärred-Lund-Harlösa%20Järnvägar)
+* [Bjärreds järnvägsstation](Bjärreds%20järnvägsstation)
+* [Fjelie Station](Fjelie%20Station)
+* [järnvägsstation](järnvägsstation)
+* [Långa bryggan](Långa%20bryggan)
+* [ånglok](ånglok)

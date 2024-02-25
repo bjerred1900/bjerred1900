@@ -1,7 +1,7 @@
 # Tallvägen
 
-**Tallvägen** är en [väg](väg.md) i [Bjärred](Bjärred.md).
+**Tallvägen** är en [väg](väg) i [Bjärred](Bjärred).
 
 ## Referenser till denna artikel
 
-* [Hugo Magnusson](Hugo%20Magnusson.md)
+* [Hugo Magnusson](Hugo%20Magnusson)

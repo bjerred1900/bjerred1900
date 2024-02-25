@@ -1,3 +1,3 @@
 # Lind
 
-**Lind** var en [släkt](släkt.md) som en gång bodde i [Villan](Villan.md) och [Fyllan](Fyllan.md).
+**Lind** var en [släkt](släkt) som en gång bodde i [Villan](Villan) och [Fyllan](Fyllan).

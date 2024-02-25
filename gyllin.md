@@ -1,3 +1,3 @@
 # Gyllin
 
-**Gyllin** var en [släkt](släkt.md) i [Bjärred](Bjärred.md).
+**Gyllin** var en [släkt](släkt) i [Bjärred](Bjärred).

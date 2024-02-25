@@ -2,4 +2,4 @@
 
 ## Referenser till denna artikel
 
-* [Kolabryggan](Kolabryggan.md)
+* [Kolabryggan](Kolabryggan)

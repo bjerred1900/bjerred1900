@@ -1,3 +1,3 @@
 # Professor Trägårdh
 
-**Professor Trägårdh** var en [person](person.md).
+**Professor Trägårdh** var en [person](person).

@@ -12,10 +12,12 @@ def normalize_links() -> None:
                 content = f.read()
             links = re.findall(r'\[\[(.*?)\]\]', content)
             for link in links:
-                content = content.replace(f'[[{link}]]', f'[{link}]({link}.md)')
+                content = content.replace(f'[[{link}]]', f'[{link}]({link})')
 
-            # for each link ([file name](file name.md)) in the content, replace spaces with %20, like this: ([file name](file%20name.md))
+            # for each link ([file name](file name.md)) in the content, replace spaces with %20, like this: ([file name](file%20name))
             content = re.sub(r'\[([^\]]*)\]\(([^)]*)\)', lambda m: f'[{m.group(1)}]({m.group(2).replace(" ", "%20")})', content)
+            # also remove any .md link endings
+            content = re.sub(r'\.md\)', ')', content)
             with open(file, 'w', encoding='utf-8') as f:  # And also here
                 f.write(content)
 

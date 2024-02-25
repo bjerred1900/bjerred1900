@@ -3,4 +3,4 @@
 
 ## Referenser till denna artikel
 
-* [Oskar Andersson](Oskar%20Andersson.md)
+* [Oskar Andersson](Oskar%20Andersson)

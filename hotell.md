@@ -2,5 +2,5 @@
 
 ## Referenser till denna artikel
 
-* [badhotellet](badhotellet.md)
-* [turisthotellet](turisthotellet.md)
+* [badhotellet](badhotellet)
+* [turisthotellet](turisthotellet)
