@@ -47,3 +47,7 @@ _Bjerred 1900_ äger inte innehållet i artiklarna, bilderna, eller annat materi
 ## Kontakt
 
 **Email**: <bjerred1900@outlook.com>
+
+## Referenser till denna artikel
+
+* [Bjerred 1900](Bjerred%201900.md)

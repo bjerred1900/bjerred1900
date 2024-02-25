@@ -5,3 +5,7 @@
 Stig och [Göta Andersson](Göta%20Andersson.md) drev nu framgångsrikt Handelsträdgården och odlade gräslök på marken. 1951, 1958 och 1961 köpte de mer mark av [Walter Reeder](Walter%20Reeder.md). De anlade tomatodling på området.
 
 Stig och Göta drev Handelsträdgården till mitten av 1980 talet.
+
+## Referenser till denna artikel
+
+* [Bjerehof](Bjerehof.md)

@@ -90,3 +90,12 @@ Som sades tidigare försåldes Vitusborg av Malmöföretaget och nya ägare blev
 
 * <https://filer.hembygd.se/lomma/uploads/files/2021/02/05/N%20Villav%C3%A4gen%2015%20o%2024%20.pdf>
 * Britt Gerdman, Ur Medlemsblad 31 (1994)
+
+## Referenser till denna artikel
+
+* [fyllan](fyllan.md)
+* [Georg Lind](Georg%20Lind.md)
+* [kristinero](kristinero.md)
+* [lind](lind.md)
+* [Norra Villavägen 15](Norra%20Villavägen%2015.md)
+* [vitusborg](vitusborg.md)

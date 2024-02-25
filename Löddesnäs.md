@@ -10,3 +10,10 @@ Fram till skiftet på 1860-talet var Löddesnäs betesmark. [Knut Gyllin](Knut%2
 
 ![Löddesnäs_001](images/Löddesnäs_001.jpg)
 Löddesnäs under uppbyggnad på 1960-talet.
+
+## Referenser till denna artikel
+
+* [Gyllins ängar](Gyllins%20ängar.md)
+* [Knut Gyllin](Knut%20Gyllin.md)
+* [Löddesnäs gård](Löddesnäs%20gård.md)
+* [löddesnässkolan](löddesnässkolan.md)

@@ -43,3 +43,18 @@ Växthuset. Bild från [Göta Andersson](Göta%20Andersson.md).
 
 * <https://filer.hembygd.se/lomma/uploads/files/2020/08/01/Fl%C3%A4die%2022%20-%20Bjerehof%20.pdf> ([lokal kopia](file://sources/Flädie_22_Bjerehof.pdf)) <!-- TODO: Fix link -->
 * Delar av texten sammanställt av Birgitta Nilsson.
+
+## Referenser till denna artikel
+
+* [Beatenborg](Beatenborg.md)
+* [Bjeres väg 16](Bjeres%20väg%2016.md)
+* [Bjeres väg](Bjeres%20väg.md)
+* [Flädie 15,7](Flädie%2015,7.md)
+* [Gyllins ängar](Gyllins%20ängar.md)
+* [Göta Andersson](Göta%20Andersson.md)
+* [Handelsträdgården](Handelsträdgården.md)
+* [Högsäters frukodling](Högsäters%20frukodling.md)
+* [Kristina Pettersson](Kristina%20Pettersson.md)
+* [Kristinas lilla by](Kristinas%20lilla%20by.md)
+* [README](README.md)
+* [Stig Andersson](Stig%20Andersson.md)

@@ -8,3 +8,8 @@ På CG Lekholms akvarell syns kolabryggan. I baggrund syns tegelbruket och [Lån
 ## Källor
 
 * <https://filer.hembygd.se/lomma/uploads/files/2021/06/03/Badlivet%20i%20Bjerred.pdf>
+
+## Referenser till denna artikel
+
+* [Bjersunds tegelbruk](Bjersunds%20tegelbruk.md)
+* [Bjärreds saltsjöbad](Bjärreds%20saltsjöbad.md)
