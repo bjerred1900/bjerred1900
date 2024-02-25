@@ -2,11 +2,11 @@
 
 ## Se även
 
-* [järnväg](järnväg.md)
-* [Bjärreds järnvägsstation](Bjärreds%20järnvägsstation.md)
+* [järnväg](järnväg)
+* [Bjärreds järnvägsstation](Bjärreds%20järnvägsstation)
 
 ## Referenser till denna artikel
 
-* [Bjärreds järnvägsstation](Bjärreds%20järnvägsstation.md)
-* [Fjelie Station](Fjelie%20Station.md)
-* [järnväg](järnväg.md)
+* [Bjärreds järnvägsstation](Bjärreds%20järnvägsstation)
+* [Fjelie Station](Fjelie%20Station)
+* [järnväg](järnväg)

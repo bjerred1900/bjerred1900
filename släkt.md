@@ -2,6 +2,6 @@
 
 ## Referenser till denna artikel
 
-* [gyllin](gyllin.md)
-* [kockum](kockum.md)
-* [lind](lind.md)
+* [gyllin](gyllin)
+* [kockum](kockum)
+* [lind](lind)

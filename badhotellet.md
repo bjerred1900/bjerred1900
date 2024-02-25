@@ -1,8 +1,8 @@
 # Badhotellet
 
-**Badhotellet** var ett [hotell](hotell.md) vid [Bjärreds saltsjöbad](Bjärreds%20saltsjöbad.md). Det var finare än [turisthotellet](turisthotellet.md).
+**Badhotellet** var ett [hotell](hotell) vid [Bjärreds saltsjöbad](Bjärreds%20saltsjöbad). Det var finare än [turisthotellet](turisthotellet).
 
 ## Referenser till denna artikel
 
-* [Bjärreds saltsjöbad](Bjärreds%20saltsjöbad.md)
-* [turisthotellet](turisthotellet.md)
+* [Bjärreds saltsjöbad](Bjärreds%20saltsjöbad)
+* [turisthotellet](turisthotellet)

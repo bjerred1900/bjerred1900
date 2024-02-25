@@ -1,41 +1,41 @@
 # Bjärreds saltsjöbad
 
-**Bjärreds saltsjöbad** var en badanläggning vid [havet](havet.md) i [Bjärred](Bjärred.md) som uppfördes år [1901](1901.md) i samband med öppning av [Bjärreds järnvägsstation](Bjärreds%20järnvägsstation.md). Arkitekten var domkyrkoarkitekten [Theodor Wåhlin](Theodor%20Wåhlin.md). I samband med öppning planterades 50 000 (5000?) träd.
+**Bjärreds saltsjöbad** var en badanläggning vid [havet](havet) i [Bjärred](Bjärred) som uppfördes år [1901](1901) i samband med öppning av [Bjärreds järnvägsstation](Bjärreds%20järnvägsstation). Arkitekten var domkyrkoarkitekten [Theodor Wåhlin](Theodor%20Wåhlin). I samband med öppning planterades 50 000 (5000?) träd.
 
 ## Anläggningen
 
 ![Bjärreds_saltsjöbad_001](images/Bjärreds_saltsjöbad_001.png)
 
-* En lång [brygga](brygga.md) ([Långa bryggan](Långa%20bryggan.md))
-* [badhotellet](badhotellet.md) (finare)
-* [turisthotellet](turisthotellet.md) (lite enklare)
-* [Restaurangen vid Bjärreds saltsjöbad](Restaurangen%20vid%20Bjärreds%20saltsjöbad.md)
-* [brunnkios](brunnkios.md)
-* [kägelbanor](kägelbanor.md)
-* [tennisbanor](tennisbanor.md)
+* En lång [brygga](brygga) ([Långa bryggan](Långa%20bryggan))
+* [badhotellet](badhotellet) (finare)
+* [turisthotellet](turisthotellet) (lite enklare)
+* [Restaurangen vid Bjärreds saltsjöbad](Restaurangen%20vid%20Bjärreds%20saltsjöbad)
+* [brunnkios](brunnkios)
+* [kägelbanor](kägelbanor)
+* [tennisbanor](tennisbanor)
 
 ## Bakgrund
 
-Bjärreds saltsjöbad kom att byggas år [1901](1901.md). Men även innan dess bar Bjärred en badort.
+Bjärreds saltsjöbad kom att byggas år [1901](1901). Men även innan dess bar Bjärred en badort.
 
 ### Tidgare badhus
 
-Enligt annons i Folkets Tidning badade Lundaborna redan [1853](1853.md) i Bjärred.
+Enligt annons i Folkets Tidning badade Lundaborna redan [1853](1853) i Bjärred.
 
 > 24/6
 > Det nya badhuset i Bjerred som består av 7 rum för damer och 7 rum för herrar håller öppet varje vardag från kl 8 på morgonen till kl 10 på kvällen. 2 bussar går varje dag från Alidemsro föreningen kl 9 f.m och kl 4 em.
 
-Anläggningen låg i slutet av [Pilevägen](Pilevägen.md). Längst ut på bryggan fanns ett enkelt badhus i form av ett T, med badhytter för herrar till höger och damer till vänster. Här fanns också en dansbana, karusell, försäljningsstånd, restaurang och bersåer där man kunde inta förtäring. De som drev badanläggningen var Christina Westergren, Sven Persson, Jöns Svensson och Anders Jönsson.
+Anläggningen låg i slutet av [Pilevägen](Pilevägen). Längst ut på bryggan fanns ett enkelt badhus i form av ett T, med badhytter för herrar till höger och damer till vänster. Här fanns också en dansbana, karusell, försäljningsstånd, restaurang och bersåer där man kunde inta förtäring. De som drev badanläggningen var Christina Westergren, Sven Persson, Jöns Svensson och Anders Jönsson.
 
 ### Andra badbryggor
 
-Där fanns även andra badbryggor i Bjärred, så som [Kolabryggan](Kolabryggan.md).
+Där fanns även andra badbryggor i Bjärred, så som [Kolabryggan](Kolabryggan).
 
-[Anna Kockum](Anna%20Kockum.md) minns att där vid stranden fanns en ca 30 meter lång båtbrygga och en bra bit längre ut stod ett badhus på pålar. En fiskare vid namn Claus brukade ro ut barnen Kockum till badhuset och sedan låg han och sov i båten medan de badade.
+[Anna Kockum](Anna%20Kockum) minns att där vid stranden fanns en ca 30 meter lång båtbrygga och en bra bit längre ut stod ett badhus på pålar. En fiskare vid namn Claus brukade ro ut barnen Kockum till badhuset och sedan låg han och sov i båten medan de badade.
 
 ![Kockums_badbrygga](images/Kockums_badbrygga.png)
 
-År [1922](1922.md) bygdes [Lycksalighetens ö](Lycksalighetens%20ö.md).
+År [1922](1922) bygdes [Lycksalighetens ö](Lycksalighetens%20ö).
 
 ## Bilder
 
@@ -52,7 +52,7 @@ Badvagnar
 ![Bjärreds_saltsjöbad_009.png](images/Bjärreds_saltsjöbad_009.png)
 ![Bjärreds_saltsjöbad_010.png](images/Bjärreds_saltsjöbad_010.png)
 ![Bjärreds_saltsjöbad_011.png](images/Bjärreds_saltsjöbad_011.png)
-Brandkårsuppvisning/brandkårsfesten [1942](1942.md).
+Brandkårsuppvisning/brandkårsfesten [1942](1942).
 
 ![Bjärreds_saltsjöbad_012.png](images/Bjärreds_saltsjöbad_012.jpg)
 ![Bjärreds_saltsjöbad_013.png](images/Bjärreds_saltsjöbad_013.png)

@@ -1,3 +1,3 @@
 # Leråkra
 
-**Leråka** är en [ort](ort.md).
+**Leråka** är en [ort](ort).

@@ -2,5 +2,5 @@
 
 ## Referenser till denna artikel
 
-* [Restaurangen vid Bjärreds saltsjöbad](Restaurangen%20vid%20Bjärreds%20saltsjöbad.md)
-* [Restaurant Stadt Hamburg](Restaurant%20Stadt%20Hamburg.md)
+* [Restaurangen vid Bjärreds saltsjöbad](Restaurangen%20vid%20Bjärreds%20saltsjöbad)
+* [Restaurant Stadt Hamburg](Restaurant%20Stadt%20Hamburg)
