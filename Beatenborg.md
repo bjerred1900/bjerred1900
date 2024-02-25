@@ -1,12 +1,12 @@
 # Beatenborg
 
-**Beatenborg** var en [bostad](bostad) i [Bjerehof](Bjerehof) en gång tillhörande [Walter Reeder](Walter%20Reeder) och döpt efter hans dotter [Beata](Beata).
+**Beatenborg** var en [bostad](bostad) i [Bjerehof](bjerehof) en gång tillhörande [Walter Reeder](walter%20reeder) och döpt efter hans dotter [Beata](beata).
 
-![Bjerehof_002](images/Bjerehof_002.jpg)
+![Bjerehof_002](images/bjerehof_002.jpg)
 
 Beatenborg ligger längst av husen ner på bilden, nära växthusen.
 
 ## Referenser till denna artikel
 
-* [Bjerehof](Bjerehof)
-* [Flädie 15,7](Flädie%2015,7)
+* [Bjerehof](bjerehof)
+* [Flädie 15,7](flädie%2015,7)

@@ -1,3 +1,3 @@
 # Gyllins ängar
 
-**Gyllins ängar** är ett [område](område) i [Bjärred](Bjärred), nära [havet](havet), [Bjerehof](Bjerehof) och [Löddesnäs](Löddesnäs). Området kan ha fått sitt namn efter [Knut Gyllin](Knut%20Gyllin).
+**Gyllins ängar** är ett [område](område) i [Bjärred](bjärred), nära [havet](havet), [Bjerehof](bjerehof) och [Löddesnäs](löddesnäs). Området kan ha fått sitt namn efter [Knut Gyllin](knut%20gyllin).

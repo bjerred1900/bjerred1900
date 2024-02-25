@@ -2,4 +2,4 @@
 
 ## Referenser till denna artikel
 
-* [Bjersunds tegelbruk](Bjersunds%20tegelbruk)
+* [Bjersunds tegelbruk](bjersunds%20tegelbruk)

@@ -1,3 +1,3 @@
 # Lundavägen
 
-**Lundavägen** var en [väg](väg) i [Bjärred](Bjärred) som gick mot [Lund](Lund).
+**Lundavägen** var en [väg](väg) i [Bjärred](bjärred) som gick mot [Lund](lund).

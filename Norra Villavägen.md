@@ -1,13 +1,13 @@
 # Norra Villavägen
 
-**Norra Villavägen** är en [väg](väg) i [Bjärred](Bjärred).
+**Norra Villavägen** är en [väg](väg) i [Bjärred](bjärred).
 
 <!-- TODO: Uvidga artikel med material från källor. -->
 
 ## Adresser
 
-* [Norra Villavägen 2](Norra%20Villavägen%202)
-* [Norra Villavägen 23](Norra%20Villavägen%2023)
+* [Norra Villavägen 2](norra%20villavägen%202)
+* [Norra Villavägen 23](norra%20villavägen%2023)
 
 ## Källor
 

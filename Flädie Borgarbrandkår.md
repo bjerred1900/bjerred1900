@@ -1,6 +1,6 @@
 # Flädie Borgarbrandkår
 
-**Flädie Borgarbrandkår** var en [brandkår](brandkår) i [Bjärred](Bjärred). Brandkåren hette från början _Flädie borgarbrandkår_ men ombildades [1943](1943) till [Flädie-Borgeby Frivilliga Brandkår](Flädie-Borgeby%20Frivilliga%20Brandkår). Brandkåren var stationerad på [brandstationen i Bjärred](brandstationen%20i%20Bjärred).
+**Flädie Borgarbrandkår** var en [brandkår](brandkår) i [Bjärred](bjärred). Brandkåren hette från början _Flädie borgarbrandkår_ men ombildades [1943](1943) till [Flädie-Borgeby Frivilliga Brandkår](flädie-borgeby%20frivilliga%20brandkår). Brandkåren var stationerad på [brandstationen i Bjärred](brandstationen%20i%20bjärred).
 
 * [Flädie Borgarbrandkår](#flädie-borgarbrandkår)
   * [Flädie-Borgeby Frivilliga Brandkår på 1940-talet](#flädie-borgeby-frivilliga-brandkår-på-1940-talet)
@@ -11,7 +11,7 @@
 
 ## Flädie-Borgeby Frivilliga Brandkår på 1940-talet
 
-Foton och Klipp är från [Gunnar Jungquist](Gunnar%20Jungquist)s album och lån av dottern Ann-Marie Ohlin, samt från Benny Nilssons arkiv och med tillstånd för publicering.
+Foton och Klipp är från [Gunnar Jungquist](gunnar%20jungquist)s album och lån av dottern Ann-Marie Ohlin, samt från Benny Nilssons arkiv och med tillstånd för publicering.
 
 Innan Brandkåren organiserades och nybildades till Flädie-Borgeby Frivilliga Brandkår 1942, hade dåvarande Kommunalordförande Karl Olsson en brandspruta inne på logen på sin gård. Det blev snabba utryckningar och med hjälp av gårdens arbetare och frivilliga som uppbådades, blev eldsvådorna släckta. Det förekom många bränder. En eldsvåda var det 1935 på Hans Jonas väg på Nils Rasmussons gård och på Ekehem som då ägdes av Axel Jönsson. En stor brand inträffade 1914 vid världskrigets utbrott. Då slog blixten ner i Hans Nilssons Arrendegård Flädie Nr 11. Senare byggde Apotekare Montelin två byggnader och en park  på platsen. Här finns nu Bergagården och Kyrkan.  
 
@@ -27,8 +27,8 @@ Här hade Skomakare Hartvig Andersson sin verkstad.
 7A. Brandbilen som nu har blivit förstärkt och fått dubbla bakhjul m.m.
 Huset i bakgrunden är Bagare Sven Lindströms på Västkustvägen.
 
-![Flädie_borgarbrandkår_013](images/Flädie_borgarbrandkår_013.jpg)
-![Flädie_borgarbrandkår_014](images/Flädie_borgarbrandkår_014.jpg)
+![Flädie_borgarbrandkår_013](images/flädie_borgarbrandkår_013.jpg)
+![Flädie_borgarbrandkår_014](images/flädie_borgarbrandkår_014.jpg)
 
 <!-- TODO: Add pictures -->
 
@@ -40,10 +40,10 @@ Huset i bakgrunden är Bagare Sven Lindströms på Västkustvägen.
 
 5E. Den gamla bilen utrustas till den nyuppsatta Fjelieavdelningen.
 
-![Flädie_borgarbrandkår_009](images/Flädie_borgarbrandkår_009.jpg)
-![Flädie_borgarbrandkår_010](images/Flädie_borgarbrandkår_010.jpg)
-![Flädie_borgarbrandkår_011](images/Flädie_borgarbrandkår_011.jpg)
-![Flädie_borgarbrandkår_012](images/Flädie_borgarbrandkår_012.jpg)
+![Flädie_borgarbrandkår_009](images/flädie_borgarbrandkår_009.jpg)
+![Flädie_borgarbrandkår_010](images/flädie_borgarbrandkår_010.jpg)
+![Flädie_borgarbrandkår_011](images/flädie_borgarbrandkår_011.jpg)
+![Flädie_borgarbrandkår_012](images/flädie_borgarbrandkår_012.jpg)
 
 3F. Rensningen av märgelgravar ger fina vattenreservoarer.
 
@@ -58,10 +58,10 @@ vid Ringvägens sydligaste del.
 
 Foton från Benny Nilssons arkiv och med tillstånd för Publicering.
 
-![Flädie_borgarbrandkår_005](images/Flädie_borgarbrandkår_005.jpg)
-![Flädie_borgarbrandkår_006](images/Flädie_borgarbrandkår_006.jpg)
-![Flädie_borgarbrandkår_007](images/Flädie_borgarbrandkår_007.jpg)
-![Flädie_borgarbrandkår_008](images/Flädie_borgarbrandkår_008.jpg)
+![Flädie_borgarbrandkår_005](images/flädie_borgarbrandkår_005.jpg)
+![Flädie_borgarbrandkår_006](images/flädie_borgarbrandkår_006.jpg)
+![Flädie_borgarbrandkår_007](images/flädie_borgarbrandkår_007.jpg)
+![Flädie_borgarbrandkår_008](images/flädie_borgarbrandkår_008.jpg)
 
 ## Flädie Borgarbrandkår på 1950-talet
 
@@ -84,18 +84,18 @@ Brandförman Hartvig Andersson har placerat Brandbilen på den plats, där tillb
 
 Foton från Benny Nilssons arkiv och med tillstånd för publicering.
 
-![Flädie_borgarbrandkår_001](images/Flädie_borgarbrandkår_001.jpg)
-![Flädie_borgarbrandkår_002](images/Flädie_borgarbrandkår_002.jpg)
-![Flädie_borgarbrandkår_003](images/Flädie_borgarbrandkår_003.jpg)
-![Flädie_borgarbrandkår_004](images/Flädie_borgarbrandkår_004.jpg)
+![Flädie_borgarbrandkår_001](images/flädie_borgarbrandkår_001.jpg)
+![Flädie_borgarbrandkår_002](images/flädie_borgarbrandkår_002.jpg)
+![Flädie_borgarbrandkår_003](images/flädie_borgarbrandkår_003.jpg)
+![Flädie_borgarbrandkår_004](images/flädie_borgarbrandkår_004.jpg)
 
 ## Bilder
 
-![Bjärreds_saltsjöbad_011.png](images/Bjärreds_saltsjöbad_011.png)
+![Bjärreds_saltsjöbad_011.png](images/bjärreds_saltsjöbad_011.png)
 
 ## Se även
 
-* [Branden i Bjärreds saltsjöbad](Branden%20i%20Bjärreds%20saltsjöbad)
+* [Branden i Bjärreds saltsjöbad](branden%20i%20bjärreds%20saltsjöbad)
 
 ## Källor
 

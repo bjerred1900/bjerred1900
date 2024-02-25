@@ -1,10 +1,10 @@
 # Flädie 11
 
-**Flädie 11** var ett [område](område) i [Bjärred](Bjärred).
+**Flädie 11** var ett [område](område) i [Bjärred](bjärred).
 
 ## Bilder
 
-![Flädie_11_001](images/Fl%C3%A4die_11_001.png)
+![Flädie_11_001](images/fl%c3%a4die_11_001.png)
 
 ## Källor
 

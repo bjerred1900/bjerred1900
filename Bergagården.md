@@ -1,6 +1,6 @@
 # Bergagården
 
-**Bergagården** var en [gård](gård) i [Bjärred](Bjärred).
+**Bergagården** var en [gård](gård) i [Bjärred](bjärred).
 
 <!-- TODO: Skriv denna artikel. -->
 

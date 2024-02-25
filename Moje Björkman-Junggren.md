@@ -1,3 +1,3 @@
 # Moje Björkman-Junggren
 
-**Moje Björkman-Junggren** var en [person](person) som drev [Restaurangen vid Bjärreds saltsjöbad](Restaurangen%20vid%20Bjärreds%20saltsjöbad).
+**Moje Björkman-Junggren** var en [person](person) som drev [Restaurangen vid Bjärreds saltsjöbad](restaurangen%20vid%20bjärreds%20saltsjöbad).

@@ -1,3 +1,3 @@
 # Stig Andersson
 
-**Stig Andersson** var en [person](person) bosatt i [Bjerehof](Bjerehof) i [Bjärred](Bjärred).
+**Stig Andersson** var en [person](person) bosatt i [Bjerehof](bjerehof) i [Bjärred](bjärred).

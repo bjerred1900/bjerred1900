@@ -1,3 +1,3 @@
 # Gamla saltsjöbaden
 
-Se [Lycksalighetens ö](Lycksalighetens%20ö) och [Bjärreds saltsjöbad](Bjärreds%20saltsjöbad).
+Se [Lycksalighetens ö](lycksalighetens%20ö) och [Bjärreds saltsjöbad](bjärreds%20saltsjöbad).

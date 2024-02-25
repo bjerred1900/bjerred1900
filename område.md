@@ -2,10 +2,10 @@
 
 ## Referenser till denna artikel
 
-* [Bjerehof](Bjerehof)
-* [Flädie 11](Flädie%2011)
-* [Flädie 22](Flädie%2022)
-* [Gamla centrum](Gamla%20centrum)
-* [Gyllins ängar](Gyllins%20ängar)
-* [Högsäters frukodling](Högsäters%20frukodling)
-* [Löddesnäs](Löddesnäs)
+* [Bjerehof](bjerehof)
+* [Flädie 11](flädie%2011)
+* [Flädie 22](flädie%2022)
+* [Gamla centrum](gamla%20centrum)
+* [Gyllins ängar](gyllins%20ängar)
+* [Högsäters frukodling](högsäters%20frukodling)
+* [Löddesnäs](löddesnäs)

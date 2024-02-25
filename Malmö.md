@@ -1,12 +1,12 @@
 # Malmö
 
-**Malmö** är en stor [ort](ort) nära [Bjärred](Bjärred).
+**Malmö** är en stor [ort](ort) nära [Bjärred](bjärred).
 
 ## Referenser till denna artikel
 
-* [Bjärred](Bjärred)
-* [H.P. Berenett](H.P.%20Berenett)
-* [Långa bryggan](Långa%20bryggan)
-* [Per Albert Pettersson](Per%20Albert%20Pettersson)
-* [Restaurant Stadt Hamburg](Restaurant%20Stadt%20Hamburg)
-* [Walter Reeder](Walter%20Reeder)
+* [Bjärred](bjärred)
+* [H.P. Berenett](h.p.%20berenett)
+* [Långa bryggan](långa%20bryggan)
+* [Per Albert Pettersson](per%20albert%20pettersson)
+* [Restaurant Stadt Hamburg](restaurant%20stadt%20hamburg)
+* [Walter Reeder](walter%20reeder)

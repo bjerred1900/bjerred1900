@@ -2,4 +2,4 @@
 
 ## Referenser till denna artikel
 
-* [Bjeres väg 20](Bjeres%20väg%2020)
+* [Bjeres väg 20](bjeres%20väg%2020)

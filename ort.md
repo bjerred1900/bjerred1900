@@ -2,12 +2,12 @@
 
 ## Referenser till denna artikel
 
-* [Bjärred](Bjärred)
+* [Bjärred](bjärred)
 * [borgeby](borgeby)
-* [Fjelie](Fjelie)
-* [Flädie](Flädie)
-* [Habo Ljung](Habo%20Ljung)
+* [Fjelie](fjelie)
+* [Flädie](flädie)
+* [Habo Ljung](habo%20ljung)
 * [kvarnby](kvarnby)
 * [leråkra](leråkra)
 * [lund](lund)
-* [Malmö](Malmö)
+* [Malmö](malmö)

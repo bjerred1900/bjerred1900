@@ -4,25 +4,25 @@ koordinater: [55.725662363703194, 13.107905620400826]
 
 # Fjelie station
 
-**Fjelie station** var en [järnvägsstation](järnvägsstation) i [Fjelie](Fjelie).  Den låg på [järnväg](järnväg)en som sköttes av [Bjärred-Lund-Harlösa Järnvägar](Bjärred-Lund-Harlösa%20Järnvägar). Stationen fanns mellan [1901](1901) och [1939](1939).
+**Fjelie station** var en [järnvägsstation](järnvägsstation) i [Fjelie](fjelie).  Den låg på [järnväg](järnväg)en som sköttes av [Bjärred-Lund-Harlösa Järnvägar](bjärred-lund-harlösa%20järnvägar). Stationen fanns mellan [1901](1901) och [1939](1939).
 
 1939-[1960](1960) var den arbetarbostad till anställda på ”Vindfällegård”.
 
 ## Bilder
 
-![Fjelie_001](images/Fjelie_001.jpg)
+![Fjelie_001](images/fjelie_001.jpg)
 
 Fjelie 15,10 Fjelie Vindfälleväg 15. Fjelie Station ”Festklädd”, kanske vid invigningen 1901.. Lån av Benny Nilsson Löddesnäs
 
-![Fjelie_002](images/Fjelie_002.jpg)
+![Fjelie_002](images/fjelie_002.jpg)
 
 Fjelie 15,10 Fjelie Vindfälleväg 15 Fjelie station omkring 1912. Stationsmästare Carl Sjögren med frun Anna och barnen: Erik, Kristina, Ester och Axel. Lån av Knut Persson Fjelie.
 
-![Fjelie_003](images/Fjelie_003.jpg)
+![Fjelie_003](images/fjelie_003.jpg)
 
-Fjelie 15,10 [Fjelie Vindfälleväg 15](Fjelie%20Vindfälleväg%2015). Badtåg på Fjelie station på [1920](1920)-talet. Lån av Lomma Kommunarkiv.
+Fjelie 15,10 [Fjelie Vindfälleväg 15](fjelie%20vindfälleväg%2015). Badtåg på Fjelie station på [1920](1920)-talet. Lån av Lomma Kommunarkiv.
 
-![Fjelie_004](images/Fjelie_004.jpg)
+![Fjelie_004](images/fjelie_004.jpg)
 
 Fjelie 15,10 Fjelie Vindfälleväg 15. Lån av Lomma Kommunarkiv.
 

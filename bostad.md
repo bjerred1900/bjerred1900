@@ -2,7 +2,7 @@
 
 ## Referenser till denna artikel
 
-* [Beatenborg](Beatenborg)
+* [Beatenborg](beatenborg)
 * [fyllan](fyllan)
-* [Villan](Villan)
-* [Willa Borg](Willa%20Borg)
+* [Villan](villan)
+* [Willa Borg](willa%20borg)

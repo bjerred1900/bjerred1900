@@ -2,4 +2,4 @@
 
 ## Referenser till denna artikel
 
-* [Walter Reeder](Walter%20Reeder)
+* [Walter Reeder](walter%20reeder)

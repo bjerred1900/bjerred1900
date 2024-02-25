@@ -1,3 +1,3 @@
 # Kristinas lilla by
 
-Se [Bjerehof](Bjerehof) och [Kristina Pettersson](Kristina%20Pettersson).
+Se [Bjerehof](bjerehof) och [Kristina Pettersson](kristina%20pettersson).

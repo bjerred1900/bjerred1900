@@ -9,8 +9,8 @@ Skälet till att kartera Skåne för militära ändamål var hotet från Napoleo
 ## Bilder
 
 ![Skånska_rekognosceringskartan_001](images/skanska-rekognoseringskartan.jpg)
-![Skånska_rekognosceringskartan_001](images/skånska%20rekognosceringskartan%20I.W.205.gif)
-![Skånska_rekognosceringskartan_001](images/skånska%20rekognosceringskartan%20I.Ö.205.gif)
+![Skånska_rekognosceringskartan_001](images/skånska%20rekognosceringskartan%20i.w.205.gif)
+![Skånska_rekognosceringskartan_001](images/skånska%20rekognosceringskartan%20i.ö.205.gif)
 
 ## Källor
 

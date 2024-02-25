@@ -2,4 +2,4 @@
 
 ## Referenser till denna artikel
 
-* [Erik Bengtssons affär](Erik%20Bengtssons%20affär)
+* [Erik Bengtssons affär](erik%20bengtssons%20affär)

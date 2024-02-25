@@ -1,6 +1,6 @@
 # Bjerred 1900
 
-**Bjerred 1900** är en sida som samlar information och bilder om hur [Bjärred](Bjärred) var och såg ut under 1800- och 1900-talet. Sidan är under uppbyggnad och kommer att fyllas på med mer information och bilder allt eftersom.
+**Bjerred 1900** är en sida som samlar information och bilder om hur [Bjärred](bjärred) var och såg ut under 1800- och 1900-talet. Sidan är under uppbyggnad och kommer att fyllas på med mer information och bilder allt eftersom.
 
 ## Bjerred 1900?
 
@@ -10,12 +10,12 @@ Artiklarna på _Bjerred 1900_ tar utgångspunk i året [1900](1900). Sen tittas 
 
 Detta är ett urval av artiklar som finns på sidan och som kan lämpa sig som ingångspunkter för att börja utforska Bjerred 1900.
 
-* [Bidragit med foton](Bidragit%20med%20foton) (för att se artiklar om vilka som bidragit med foton)
-* [Bjerehof](Bjerehof)
-* [Bjärreds saltsjöbad](Bjärreds%20saltsjöbad)
-* [Område](Område) (för en översikt över områden som är omnämnda på sidan)
-* [Ort](Ort) (för en översikt över orter som är omnämnda på sidan)
-* [Person](Person) (för en översikt över personer som är omnämnda på sidan)
+* [Bidragit med foton](bidragit%20med%20foton) (för att se artiklar om vilka som bidragit med foton)
+* [Bjerehof](bjerehof)
+* [Bjärreds saltsjöbad](bjärreds%20saltsjöbad)
+* [Område](område) (för en översikt över områden som är omnämnda på sidan)
+* [Ort](ort) (för en översikt över orter som är omnämnda på sidan)
+* [Person](person) (för en översikt över personer som är omnämnda på sidan)
 
 Notera även att i botten av varje artikel finns en lista över relaterade artiklar som kan vara intressanta att utforska.
 
@@ -50,4 +50,4 @@ _Bjerred 1900_ äger inte innehållet i artiklarna, bilderna, eller annat materi
 
 ## Referenser till denna artikel
 
-* [Bjerred 1900](Bjerred%201900)
+* [Bjerred 1900](bjerred%201900)

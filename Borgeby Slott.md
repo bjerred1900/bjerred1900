@@ -1,3 +1,3 @@
 # Borgeby Slott
 
-**Borgeby Slott** är ett [slott](slott) i [Borgeby](Borgeby).
+**Borgeby Slott** är ett [slott](slott) i [Borgeby](borgeby).

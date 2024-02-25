@@ -1,6 +1,6 @@
 # Flädie 15,7
 
-**Flädie 15,7** var en [tomt](tomt) i [Bjärred](Bjärred) i området [Bjerehof](Bjerehof). Den ägdes vid ett tillfälle av [Lars Andersson](Lars%20Andersson) och [Karna Nilsdotter](Karna%20Nilsdotter). Denna tomt låg också nära [Beatenborg](Beatenborg).
+**Flädie 15,7** var en [tomt](tomt) i [Bjärred](bjärred) i området [Bjerehof](bjerehof). Den ägdes vid ett tillfälle av [Lars Andersson](lars%20andersson) och [Karna Nilsdotter](karna%20nilsdotter). Denna tomt låg också nära [Beatenborg](beatenborg).
 
 ## Bilder
 

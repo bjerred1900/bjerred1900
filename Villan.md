@@ -1,6 +1,6 @@
 # Villan
 
-**Villan**, även kallat [Kristinero](Kristinero) och [Vitusborg](Vitusborg), var en [bostad](bostad) på [Norra Villavägen 15](Norra%20Villavägen%2015) i [Bjärred](Bjärred). Villan är relaterad till den närbelägna [Fyllan](Fyllan).
+**Villan**, även kallat [Kristinero](kristinero) och [Vitusborg](vitusborg), var en [bostad](bostad) på [Norra Villavägen 15](norra%20villavägen%2015) i [Bjärred](bjärred). Villan är relaterad till den närbelägna [Fyllan](fyllan).
 
 * [Bakgrund](#bakgrund)
 * [Kristinero](#kristinero)
@@ -26,7 +26,7 @@ Det fanns hantverkare av olika slag - tänk så skönt att få allt ordnat på p
 
 ## Kristinero
 
-Vid denna tidpunkten omkring år 1900 avstyckades en tomt Norra Villavägen 15 till [Georg Lind](Georg%20Lind), som drev järnhandel i Lund.
+Vid denna tidpunkten omkring år 1900 avstyckades en tomt Norra Villavägen 15 till [Georg Lind](georg%20lind), som drev järnhandel i Lund.
 
 ### Villan byggs
 
@@ -50,11 +50,11 @@ I trädgården finns ett annex, som familjen använde som stallbyggnad.
 
 #### "Fyllan"
 
-Snett emot Kristinero på andra sidan gatan hade ungherrarna i familjen sitt residens på [Norra Villavägen 24](Norra%20Villavägen%2024). Folkhumorn kallade ungherrarnas hus för "[fyllan](fyllan)" och familjens hus för villan.
+Snett emot Kristinero på andra sidan gatan hade ungherrarna i familjen sitt residens på [Norra Villavägen 24](norra%20villavägen%2024). Folkhumorn kallade ungherrarnas hus för "[fyllan](fyllan)" och familjens hus för villan.
 
 ## Nya ägare: H.P. Berenett
 
-Huset bytte ägare och på [1920](1920)-talet var den nye innehavaren en krögare [H.P. Berenett](H.P.%20Berenett) från Malmö som drev Restaurant Stadt Hamburg. Från denna tid finns ett minne kvar. Berenett hade gäss i trädgården, dessa gillade att vistas på strandpromenaden utanför. För detta hade gjorts en lucka i staketet för deras ut och invandring.
+Huset bytte ägare och på [1920](1920)-talet var den nye innehavaren en krögare [H.P. Berenett](h.p.%20berenett) från Malmö som drev Restaurant Stadt Hamburg. Från denna tid finns ett minne kvar. Berenett hade gäss i trädgården, dessa gillade att vistas på strandpromenaden utanför. För detta hade gjorts en lucka i staketet för deras ut och invandring.
 
 C.G.Lekholm den person,som är mest bevandrad i Bjerred och dess historia har berättat detta och även målat en tavla med huset och gässens framfart på promenaden. Gässen var stundtals aggressiva och det var inte ovanligt att vild jakt förekom bland de promenerande.
 
@@ -62,7 +62,7 @@ Tavlan finns idag i vår (familjen Gerdman) ägo, till stor glädje för oss. Gr
 
 ## Vitusborg
 
-Villan bytte åter ägare och tillträddes av [Vitus Pettersson](Vitus%20Pettersson), husets namn blev nu Vitusborg. Pettersson drev ett bokförlag i Malmö.
+Villan bytte åter ägare och tillträddes av [Vitus Pettersson](vitus%20pettersson), husets namn blev nu Vitusborg. Pettersson drev ett bokförlag i Malmö.
 
 ### Nudistkoloni
 
@@ -94,8 +94,8 @@ Som sades tidigare försåldes Vitusborg av Malmöföretaget och nya ägare blev
 ## Referenser till denna artikel
 
 * [fyllan](fyllan)
-* [Georg Lind](Georg%20Lind)
+* [Georg Lind](georg%20lind)
 * [kristinero](kristinero)
 * [lind](lind)
-* [Norra Villavägen 15](Norra%20Villavägen%2015)
+* [Norra Villavägen 15](norra%20villavägen%2015)
 * [vitusborg](vitusborg)

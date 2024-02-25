@@ -25,8 +25,8 @@ Foton från Benny Nilssons arkiv och med tillstånd för Publicering.
 
 ## Se även
 
-* [Flädie 11](Flädie%2011)
+* [Flädie 11](flädie%2011)
 
 ## Bilder
 
-![Flädie 11,20 Strandvägen 3 001.jpg](images/Flädie_11,20_Strandvägen_3_001.jpg)
+![Flädie 11,20 Strandvägen 3 001.jpg](images/flädie_11,20_strandvägen_3_001.jpg)

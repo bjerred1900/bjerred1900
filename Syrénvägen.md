@@ -1,6 +1,6 @@
 # Syrénvägen
 
-**Syrénvägen** är en [väg](väg) i [Bjärred](Bjärred).
+**Syrénvägen** är en [väg](väg) i [Bjärred](bjärred).
 
 <!-- TODO: Skriv denna artikel. -->
 

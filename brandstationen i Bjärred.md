@@ -1,6 +1,6 @@
 # Brandstationen i Bjärred
 
-**Brandstationen i Bjärred** var en [brandstation](brandstation) i [Bjärred](Bjärred) som användes av [Flädie Borgarbrandkår](Flädie%20Borgarbrandkår).
+**Brandstationen i Bjärred** var en [brandstation](brandstation) i [Bjärred](bjärred) som användes av [Flädie Borgarbrandkår](flädie%20borgarbrandkår).
 
 På tomten Flädie 11,150 byggdes en ny brandstation [1942](1942) och [1954](1954) byggdes den ut. På tomt Flädie 11,149 fanns ett [vattenverk](vattenverk) som försåg Bjärred med vatten.
 

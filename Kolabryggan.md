@@ -1,9 +1,9 @@
 # Kolabryggan
 
-**Kolabryggan** vid [Bjersunds tegelbruk](Bjersunds%20tegelbruk) lär ha varit en av de första badbryggorna (se: [brygga](brygga)) i [Bjärred](Bjärred). Det var bryggan där [pråm](pråm)arna med kolstybb till tegelbruket lade till. Den revs så småningom när tegelbruket lagts ner [1887](1887) och en ny brygga byggdes.
+**Kolabryggan** vid [Bjersunds tegelbruk](bjersunds%20tegelbruk) lär ha varit en av de första badbryggorna (se: [brygga](brygga)) i [Bjärred](bjärred). Det var bryggan där [pråm](pråm)arna med kolstybb till tegelbruket lade till. Den revs så småningom när tegelbruket lagts ner [1887](1887) och en ny brygga byggdes.
 
-![Kolabryggan_001](images/Kolabryggan_001.png)
-På CG Lekholms akvarell syns kolabryggan. I baggrund syns tegelbruket och [Långa längan](Långa%20längan) också.
+![Kolabryggan_001](images/kolabryggan_001.png)
+På CG Lekholms akvarell syns kolabryggan. I baggrund syns tegelbruket och [Långa längan](långa%20längan) också.
 
 ## Källor
 
@@ -11,5 +11,5 @@ På CG Lekholms akvarell syns kolabryggan. I baggrund syns tegelbruket och [Lån
 
 ## Referenser till denna artikel
 
-* [Bjersunds tegelbruk](Bjersunds%20tegelbruk)
-* [Bjärreds saltsjöbad](Bjärreds%20saltsjöbad)
+* [Bjersunds tegelbruk](bjersunds%20tegelbruk)
+* [Bjärreds saltsjöbad](bjärreds%20saltsjöbad)

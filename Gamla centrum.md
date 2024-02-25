@@ -1,8 +1,8 @@
 # Gamla centrum
 
-**Gamla centrum** är ett [område](område) i [Bjärred](Bjärred).
+**Gamla centrum** är ett [område](område) i [Bjärred](bjärred).
 
-* [Erik Bengtssons affär](Erik%20Bengtssons%20affär)
+* [Erik Bengtssons affär](erik%20bengtssons%20affär)
 
 <!-- TODO: Format and clean up text. -->
 

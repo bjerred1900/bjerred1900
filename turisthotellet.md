@@ -1,10 +1,10 @@
 # Turisthotellet
 
-**Turisthotellet** var ett [hotell](hotell) vid [Bjärreds saltsjöbad](Bjärreds%20saltsjöbad). Det var lite enklare än [badhotellet](badhotellet).
+**Turisthotellet** var ett [hotell](hotell) vid [Bjärreds saltsjöbad](bjärreds%20saltsjöbad). Det var lite enklare än [badhotellet](badhotellet).
 
-![Turisthotellet_001](images/Turisthotellet_001.png)
+![Turisthotellet_001](images/turisthotellet_001.png)
 
 ## Referenser till denna artikel
 
 * [badhotellet](badhotellet)
-* [Bjärreds saltsjöbad](Bjärreds%20saltsjöbad)
+* [Bjärreds saltsjöbad](bjärreds%20saltsjöbad)

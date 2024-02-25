@@ -2,4 +2,4 @@
 
 ## Referenser till denna artikel
 
-* [Axel Andersson](Axel%20Andersson)
+* [Axel Andersson](axel%20andersson)

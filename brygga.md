@@ -2,6 +2,6 @@
 
 ## Referenser till denna artikel
 
-* [Bjärreds saltsjöbad](Bjärreds%20saltsjöbad)
-* [Kolabryggan](Kolabryggan)
-* [Långa bryggan](Långa%20bryggan)
+* [Bjärreds saltsjöbad](bjärreds%20saltsjöbad)
+* [Kolabryggan](kolabryggan)
+* [Långa bryggan](långa%20bryggan)

@@ -2,4 +2,4 @@
 
 ## Referenser till denna artikel
 
-* [Georg Lind](Georg%20Lind)
+* [Georg Lind](georg%20lind)
