@@ -1,3 +1,3 @@
 # Lund
 
-**Lund** är en större [[ort]] nära [[Bjärred]].
+**Lund** är en större [ort](ort.md) nära [Bjärred](Bjärred.md).

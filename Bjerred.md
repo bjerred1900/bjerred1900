@@ -1,3 +1,3 @@
 # Bjerred
 
-En gammal stavning för [[Bjärred]].
+En gammal stavning för [Bjärred](Bjärred.md).

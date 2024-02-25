@@ -1,3 +1,3 @@
 # Anders Olsson
 
-**Anders Olsson** ([[1841]] [[Löddeköpinge]] - [[1914]] [[Flädie]]) var en [[person]] och torpare.
+**Anders Olsson** ([1841](1841.md) [Löddeköpinge](Löddeköpinge.md) - [1914](1914.md) [Flädie](Flädie.md)) var en [person](person.md) och torpare.

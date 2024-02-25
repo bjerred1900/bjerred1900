@@ -1,3 +1,3 @@
 # Kristinero
 
-**Kristinero** är ett alternativt namn för [[Villan]].
+**Kristinero** är ett alternativt namn för [Villan](Villan.md).

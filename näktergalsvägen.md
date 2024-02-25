@@ -1,6 +1,6 @@
 # Näktergalsvägen
 
-**Näktergalsvägen** är en [[väg]] i [[Bjärred]].
+**Näktergalsvägen** är en [väg](väg.md) i [Bjärred](Bjärred.md).
 
 <!-- TODO: Lägg till mer innehåll från källorna -->
 

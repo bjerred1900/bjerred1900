@@ -1,3 +1,3 @@
 # Borgeby
 
-**Borgeby** är en [[ort]] nära [[Bjärred]] och [[Löddeköpinge]].
+**Borgeby** är en [ort](ort.md) nära [Bjärred](Bjärred.md) och [Löddeköpinge](Löddeköpinge.md).

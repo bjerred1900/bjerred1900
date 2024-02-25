@@ -1,3 +1,3 @@
 # Kvarnby
 
-**Kvarnby** är en [[ort]].
+**Kvarnby** är en [ort](ort.md).

@@ -1,6 +1,6 @@
 # Bjärred
 
-**Bjärred**, förr stavat **[[Bjerred]]**, är en [[ort]] nära [[Borgeby]], [[Löddeköpinge]], [[Lund]], och [[Malmö]].
+**Bjärred**, förr stavat **[Bjerred](Bjerred.md)**, är en [ort](ort.md) nära [Borgeby](Borgeby.md), [Löddeköpinge](Löddeköpinge.md), [Lund](Lund.md), och [Malmö](Malmö.md).
 
 ## Källor
 

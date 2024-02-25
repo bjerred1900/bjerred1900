@@ -1,6 +1,6 @@
 # Flädie Borgarbrandkår
 
-**Flädie Borgarbrandkår** var en [[brandkår]] i [[Bjärred]]. Brandkåren hette från början _Flädie borgarbrandkår_ men ombildades [[1943]] till [[Flädie-Borgeby Frivilliga Brandkår]]. Brandkåren var stationerad på [[brandstationen i Bjärred]].
+**Flädie Borgarbrandkår** var en [brandkår](brandkår.md) i [Bjärred](Bjärred.md). Brandkåren hette från början _Flädie borgarbrandkår_ men ombildades [1943](1943.md) till [Flädie-Borgeby Frivilliga Brandkår](Flädie-Borgeby Frivilliga Brandkår.md). Brandkåren var stationerad på [brandstationen i Bjärred](brandstationen i Bjärred.md).
 
 * [Flädie Borgarbrandkår](#flädie-borgarbrandkår)
   * [Flädie-Borgeby Frivilliga Brandkår på 1940-talet](#flädie-borgeby-frivilliga-brandkår-på-1940-talet)
@@ -11,7 +11,7 @@
 
 ## Flädie-Borgeby Frivilliga Brandkår på 1940-talet
 
-Foton och Klipp är från [[Gunnar Jungquist]]s album och lån av dottern Ann-Marie Ohlin, samt från Benny Nilssons arkiv och med tillstånd för publicering.
+Foton och Klipp är från [Gunnar Jungquist](Gunnar Jungquist.md)s album och lån av dottern Ann-Marie Ohlin, samt från Benny Nilssons arkiv och med tillstånd för publicering.
 
 Innan Brandkåren organiserades och nybildades till Flädie-Borgeby Frivilliga Brandkår 1942, hade dåvarande Kommunalordförande Karl Olsson en brandspruta inne på logen på sin gård. Det blev snabba utryckningar och med hjälp av gårdens arbetare och frivilliga som uppbådades, blev eldsvådorna släckta. Det förekom många bränder. En eldsvåda var det 1935 på Hans Jonas väg på Nils Rasmussons gård och på Ekehem som då ägdes av Axel Jönsson. En stor brand inträffade 1914 vid världskrigets utbrott. Då slog blixten ner i Hans Nilssons Arrendegård Flädie Nr 11. Senare byggde Apotekare Montelin två byggnader och en park  på platsen. Här finns nu Bergagården och Kyrkan.  
 
@@ -95,7 +95,7 @@ Foton från Benny Nilssons arkiv och med tillstånd för publicering.
 
 ## Se även
 
-* [[Branden i Bjärreds saltsjöbad]]
+* [Branden i Bjärreds saltsjöbad](Branden i Bjärreds saltsjöbad.md)
 
 ## Källor
 

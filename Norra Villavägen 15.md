@@ -1,3 +1,3 @@
 # Norra Villavägen 15
 
-**Norra Villavägen 15** är en [[adress]] på [[Norra Villavägen]] i [[Bjärred]]. På denna adress ligget [[Villan]].
+**Norra Villavägen 15** är en [adress](adress.md) på [Norra Villavägen](Norra Villavägen.md) i [Bjärred](Bjärred.md). På denna adress ligget [Villan](Villan.md).

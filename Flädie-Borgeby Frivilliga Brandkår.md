@@ -1,3 +1,3 @@
 # Flädie-Borgeby Frivilliga Brandkår
 
-Se [[Flädie Borgarbrandkår]].
+Se [Flädie Borgarbrandkår](Flädie Borgarbrandkår.md).

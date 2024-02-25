@@ -1,6 +1,6 @@
 # Flädie
 
-**Flädie**, på 1100-talet skrivet som **Fletoge**, är en [[ort]] utanför [[Bjärred]].
+**Flädie**, på 1100-talet skrivet som **Fletoge**, är en [ort](ort.md) utanför [Bjärred](Bjärred.md).
 
 ## Källor
 

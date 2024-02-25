@@ -2,5 +2,5 @@
 
 ## Se även
 
-* [[järnväg]]
-* [[Bjärreds järnvägsstation]]
+* [järnväg](järnväg.md)
+* [Bjärreds järnvägsstation](Bjärreds järnvägsstation.md)

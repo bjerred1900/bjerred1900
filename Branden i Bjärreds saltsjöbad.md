@@ -1,6 +1,6 @@
 # Branden i Bjärreds saltsjöbad
 
-**Branden i Bjärreds saltsjöbad** var en [[brand]] som inträffade i [[Bjärreds saltsjöbad]]. Här fick [[brandkår]] dyka upp för att släcka branden.
+**Branden i Bjärreds saltsjöbad** var en [brand](brand.md) som inträffade i [Bjärreds saltsjöbad](Bjärreds saltsjöbad.md). Här fick [brandkår](brandkår.md) dyka upp för att släcka branden.
 
 ## Bilder
 

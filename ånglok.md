@@ -1,3 +1,3 @@
 # Ånglok
 
-**Ånglok** användes som [[transport]] via [[järnväg]] mellan [[Bjärred]] och [[Lund]]. Ångloken stannade på [[Bjärreds järnvägsstation]].
+**Ånglok** användes som [transport](transport.md) via [järnväg](järnväg.md) mellan [Bjärred](Bjärred.md) och [Lund](Lund.md). Ångloken stannade på [Bjärreds järnvägsstation](Bjärreds järnvägsstation.md).

@@ -1,3 +1,3 @@
 # Restaurant Stadt Hamburg
 
-**Restaurant Stadt Hamburg** var en [[restaurang]] i [[Malmö]] som drevs av [[H.P. Berenett]].
+**Restaurant Stadt Hamburg** var en [restaurang](restaurang.md) i [Malmö](Malmö.md) som drevs av [H.P. Berenett](H.P. Berenett.md).
