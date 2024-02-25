@@ -11,3 +11,12 @@ dateCreated: 1931
 
 ![Bjerehof_005](images/bjerehof_005.png)
 [Trädgårdsmästarens hus](trädgårdsmästarens%20hus) på Bjeres väg på [1960](1960)-talet.
+
+## Referenser till denna artikel
+
+* [Bjerehof](bjerehof)
+* [Bjeres väg](bjeres%20väg)
+* [Fläde 22,195](fläde%2022,195)
+* [Handelsträdgården](handelsträdgården)
+* [Oskar Andersson](oskar%20andersson)
+* [Trädgårdsmästarens hus](trädgårdsmästarens%20hus)

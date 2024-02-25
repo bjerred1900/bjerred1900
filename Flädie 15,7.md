@@ -5,3 +5,8 @@
 ## Bilder
 
 ![beatenborg_001](images/beatenborg_001.jpg)
+
+## Referenser till denna artikel
+
+* [Karna Nilsdotter](karna%20nilsdotter)
+* [Lars Andersson](lars%20andersson)

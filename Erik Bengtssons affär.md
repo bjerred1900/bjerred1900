@@ -17,3 +17,8 @@ Byggnaden har idag (2024) en [kemtvätt](kemtvätt) och ligger intill en livsmed
 ## Bilder
 
 ![Gamla_centrum_001](images/gamla_centrum_001.png)
+
+## Referenser till denna artikel
+
+* [Erik Bengtsson](erik%20bengtsson)
+* [Gamla centrum](gamla%20centrum)

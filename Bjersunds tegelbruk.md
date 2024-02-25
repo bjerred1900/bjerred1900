@@ -22,7 +22,5 @@ Vid tegelbruket låg [Kolabryggan](kolabryggan).
 * <https://filer.hembygd.se/lomma/uploads/files/2021/02/06/Teglbruket%20Fl%C3%A4die%2011.pdf>
 
 ## Referenser till denna artikel
-- [1860](1860)
-- [1887](1887)
-- [1902](1902)
-- [Kolabryggan](kolabryggan)
+
+* [Kolabryggan](kolabryggan)

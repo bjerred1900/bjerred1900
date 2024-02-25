@@ -17,3 +17,9 @@ Till gården fanns en vacker park med två karpdammar.
 ![Löddesnäs_gård_001](images/löddesnäs_gård_001.jpg)
 ![Löddesnäs_gård_002](images/löddesnäs_gård_002.jpg)
 ![Löddesnäs_gård_003](images/löddesnäs_gård_003.jpg)
+
+## Referenser till denna artikel
+
+* [Knut Gyllin](knut%20gyllin)
+* [Löddesnäs](löddesnäs)
+* [Löddesnässkolan](löddesnässkolan)

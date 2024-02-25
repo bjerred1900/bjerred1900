@@ -2,6 +2,6 @@
 
 ## Referenser till denna artikel
 
-* [gyllin](gyllin)
-* [kockum](kockum)
-* [lind](lind)
+* [Gyllin](gyllin)
+* [Kockum](kockum)
+* [Lind](lind)

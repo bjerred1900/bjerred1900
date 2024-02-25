@@ -7,3 +7,9 @@
 ## Källor
 
 * <https://sv.wikipedia.org/wiki/Prins_Eugen_av_Sverige>
+
+## Referenser till denna artikel
+
+* [Bjerehof](bjerehof)
+* [Handelsträdgården](handelsträdgården)
+* [Trädgårdsmästarens hus](trädgårdsmästarens%20hus)

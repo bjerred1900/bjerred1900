@@ -16,4 +16,4 @@ Löddesnäs under uppbyggnad på 1960-talet.
 * [Gyllins ängar](gyllins%20ängar)
 * [Knut Gyllin](knut%20gyllin)
 * [Löddesnäs gård](löddesnäs%20gård)
-* [löddesnässkolan](löddesnässkolan)
+* [Löddesnässkolan](löddesnässkolan)

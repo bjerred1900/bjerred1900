@@ -6,4 +6,6 @@ På huset fanns ett delvis platt tak, runt denna altan hade uppförts ett staket
 
 ## Referenser till denna artikel
 
+* [Lind](lind)
+* [Norra Villavägen 24](norra%20villavägen%2024)
 * [Villan](villan)

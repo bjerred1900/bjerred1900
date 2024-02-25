@@ -19,3 +19,8 @@ Bilden från [1900](1900)-[1910](1910). Fotograf okänd.
 
 ![Anna_Sömmerskas_hus_001](images/anna_sömmerskas_hus_001.jpeg)
 Hennes hus.
+
+## Referenser till denna artikel
+
+* [Anna sömmerska](anna%20sömmerska)
+* [Anna sömmerskas väg](anna%20sömmerskas%20väg)

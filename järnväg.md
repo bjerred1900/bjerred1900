@@ -10,7 +10,7 @@
 
 * [Bjärred-Lund-Harlösa Järnvägar](bjärred-lund-harlösa%20järnvägar)
 * [Bjärreds järnvägsstation](bjärreds%20järnvägsstation)
-* [Fjelie Station](fjelie%20station)
-* [järnvägsstation](järnvägsstation)
+* [Fjelie station](fjelie%20station)
+* [Järnvägsstation](järnvägsstation)
 * [Långa bryggan](långa%20bryggan)
-* [ånglok](ånglok)
+* [Ånglok](ånglok)

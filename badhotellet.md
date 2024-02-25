@@ -5,4 +5,4 @@
 ## Referenser till denna artikel
 
 * [Bjärreds saltsjöbad](bjärreds%20saltsjöbad)
-* [turisthotellet](turisthotellet)
+* [Turisthotellet](turisthotellet)

@@ -114,3 +114,8 @@ kallades därefter för ”Pelles kiosk”
 ## Källor
 
 * <https://filer.hembygd.se/lomma/uploads/files/2020/05/01/Fl%C3%A4die%2011Montelinv%20och%20aff%C3%A4rer%20(1).pdf>
+
+## Referenser till denna artikel
+
+* [Erik Bengtssons affär](erik%20bengtssons%20affär)
+* [Hugo Magnusson](hugo%20magnusson)

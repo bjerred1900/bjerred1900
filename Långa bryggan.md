@@ -23,3 +23,7 @@ Bryggan lades ut varje vår och togs in på hösten, om inte stormen hann före.
 > Längst ut på landsidan om själva badhuset var bryggan också utbyggd och där stod några små bord och stolar så de som hade råd därtill här kunde bli serverade en lemonad. Till vänster d.v.s på södra sidan hade bryggan en lägre etage bara 40 – 50 cm över det normala vattenståndet, där kunde också småbåtar förtöjas.
 >
 > (Inga Haraldsson).
+
+## Referenser till denna artikel
+
+* [Bjärreds saltsjöbad](bjärreds%20saltsjöbad)

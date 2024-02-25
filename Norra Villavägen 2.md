@@ -64,3 +64,9 @@ Foton från Benny Nilssons arkiv och med tillstånd för Publicering.
 ## Bilder
 
 ![Willa_Borg_001](images/willa_borg_001.jpg)
+
+## Referenser till denna artikel
+
+* [Berndt August Borg](berndt%20august%20borg)
+* [Norra Villavägen](norra%20villavägen)
+* [Willa Borg](willa%20borg)

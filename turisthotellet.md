@@ -6,5 +6,5 @@
 
 ## Referenser till denna artikel
 
-* [badhotellet](badhotellet)
+* [Badhotellet](badhotellet)
 * [Bjärreds saltsjöbad](bjärreds%20saltsjöbad)

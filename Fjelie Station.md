@@ -29,3 +29,7 @@ Fjelie 15,10 Fjelie Vindfälleväg 15. Lån av Lomma Kommunarkiv.
 ## Källor
 
 * <https://www.facebook.com/groups/329822347104603/posts/2074497442637076/>
+
+## Referenser till denna artikel
+
+* [Fjelie](fjelie)

@@ -100,3 +100,8 @@ Foton från Benny Nilssons arkiv och med tillstånd för publicering.
 ## Källor
 
 * <https://filer.hembygd.se/lomma/uploads/files/2020/06/07/Fl%C3%A4die%2024%20Bj%C3%A4rreds%20Saltsj%C3%B6bad%20brandk%C3%A5rsfest.pdf>
+
+## Referenser till denna artikel
+
+* [Brandstationen i Bjärred](brandstationen%20i%20bjärred)
+* [Flädie-Borgeby Frivilliga Brandkår](flädie-borgeby%20frivilliga%20brandkår)

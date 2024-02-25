@@ -2,5 +2,5 @@
 
 ## Referenser till denna artikel
 
-* [järnväg](järnväg)
-* [ånglok](ånglok)
+* [Järnväg](järnväg)
+* [Ånglok](ånglok)

@@ -37,3 +37,8 @@ Idag finns där bara en [parkeringsplats](parkeringsplats) på platsen där den 
 
 ![Bjärreds_saltsjöbad_003](images/bjärreds_saltsjöbad_003.jpg)
 Restaurangens eleganta Matsal med frackklädda Kypare och Hovmästare 1901.
+
+## Referenser till denna artikel
+
+* [Bjärreds saltsjöbad](bjärreds%20saltsjöbad)
+* [Moje Björkman-Junggren](moje%20björkman-junggren)

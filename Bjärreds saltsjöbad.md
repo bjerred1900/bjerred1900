@@ -61,3 +61,15 @@ Brandkårsuppvisning/brandkårsfesten [1942](1942).
 ## Källor
 
 * <https://filer.hembygd.se/lomma/uploads/files/2020/06/07/Fl%C3%A4die%2024%20Saltsj%C3%B6baden%20park%20o%20kalbadhus.pdf>
+
+## Referenser till denna artikel
+
+* [Badhotellet](badhotellet)
+* [Branden i Bjärreds saltsjöbad](branden%20i%20bjärreds%20saltsjöbad)
+* [Gamla saltsjöbaden](gamla%20saltsjöbaden)
+* [Lycksalighetens ö](lycksalighetens%20ö)
+* [Långa bryggan](långa%20bryggan)
+* [Bjerred 1900](readme)
+* [Restaurangen vid Bjärreds saltsjöbad](restaurangen%20vid%20bjärreds%20saltsjöbad)
+* [Theodor Wåhlin](theodor%20wåhlin)
+* [Turisthotellet](turisthotellet)

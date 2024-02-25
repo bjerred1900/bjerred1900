@@ -19,3 +19,9 @@ Längst ned till vänster kan man se [Bjärreds saltsjöbad](bjärreds%20saltsj�
 
 ![Lycksaligheten_002](images/lycksaligheten_002.png)
 Till vänster syns Lycsalighetens ö. Till höger syns Bjärreds saltsjöbad.
+
+## Referenser till denna artikel
+
+* [Axel Andersson](axel%20andersson)
+* [Bjärreds saltsjöbad](bjärreds%20saltsjöbad)
+* [Gamla saltsjöbaden](gamla%20saltsjöbaden)

@@ -14,6 +14,6 @@ koordinater: [55.72642041801155, 13.105244063701104]
 ## Referenser till denna artikel
 
 * [Bjärred-Lund-Harlösa Järnvägar](bjärred-lund-harlösa%20järnvägar)
-* [Fjelie Station](fjelie%20station)
+* [Fjelie station](fjelie%20station)
 * [Fjelie Vindfälleväg 15](fjelie%20vindfälleväg%2015)
 * [Fjelie Vindfälleväg](fjelie%20vindfälleväg)

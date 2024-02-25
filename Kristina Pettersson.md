@@ -4,3 +4,9 @@
 
 <!-- TODO: Ta reda på vilka årtal som är korrekt. -->
 (1869 (Tryserum i Östergötland) - 1943 [Flädie](flädie))
+
+## Referenser till denna artikel
+
+* [Bjerehof](bjerehof)
+* [Handelsträdgården](handelsträdgården)
+* [Kristinas lilla by](kristinas%20lilla%20by)

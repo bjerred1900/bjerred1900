@@ -8,5 +8,5 @@
 ## Referenser till denna artikel
 
 * [Bjärreds järnvägsstation](bjärreds%20järnvägsstation)
-* [Fjelie Station](fjelie%20station)
-* [järnväg](järnväg)
+* [Fjelie station](fjelie%20station)
+* [Järnväg](järnväg)

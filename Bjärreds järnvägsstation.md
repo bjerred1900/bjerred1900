@@ -45,3 +45,11 @@ Fram till år 1955 använde SJ spårsträckan Fjelie – Flädie till att köra 
 ## Källor
 
 * <https://www.hembygd.se/lomma/plats/175909/gallery/2649843>
+
+## Referenser till denna artikel
+
+* [Bjärred-Lund-Harlösa Järnvägar](bjärred-lund-harlösa%20järnvägar)
+* [Bjärreds saltsjöbad](bjärreds%20saltsjöbad)
+* [Järnväg](järnväg)
+* [Järnvägsstation](järnvägsstation)
+* [Ånglok](ånglok)

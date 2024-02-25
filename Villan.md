@@ -93,9 +93,9 @@ Som sades tidigare försåldes Vitusborg av Malmöföretaget och nya ägare blev
 
 ## Referenser till denna artikel
 
-* [fyllan](fyllan)
+* [Fyllan](fyllan)
 * [Georg Lind](georg%20lind)
-* [kristinero](kristinero)
-* [lind](lind)
+* [Kristinero](kristinero)
+* [Lind](lind)
 * [Norra Villavägen 15](norra%20villavägen%2015)
-* [vitusborg](vitusborg)
+* [Vitusborg](vitusborg)

@@ -11,4 +11,4 @@
 
 * [Anders Olsson](anders%20olsson)
 * [Bjärreds järnvägsstation](bjärreds%20järnvägsstation)
-* [Kristina Pettersson](kristina%20pettersson)
+* [Kristina Petterson](kristina%20pettersson)

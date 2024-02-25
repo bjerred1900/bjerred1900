@@ -17,7 +17,3 @@ Skälet till att kartera Skåne för militära ändamål var hotet från Napoleo
 * <https://sok.riksarkivet.se/Home/?postid=Arkis+30c3c29b-cbdb-479a-b715-9102997bdd90&flik=1&s=Balder>
 * <https://www.lansstyrelsen.se/skane/samhalle/kulturmiljo.html>
 * <https://sv.wikipedia.org/wiki/Sk%C3%A5nska_rekognosceringskartan>
-
-## Referenser till denna artikel
-- [1812](1812)
-- [1820](1820)

@@ -40,3 +40,10 @@ Foton från [Borgeby Kulturhistoriska Forskarlags Arkiv](borgeby%20kulturhistori
 
 ![Knut Gyllin 001](images/knut_gyllin_001.jpg)
 ![Knut Gyllin 002](images/knut_gyllin_002.jpg)
+
+## Referenser till denna artikel
+
+* [Emma Gyllin](emma%20gyllin)
+* [Gyllins ängar](gyllins%20ängar)
+* [Löddesnäs gård](löddesnäs%20gård)
+* [Löddesnäs](löddesnäs)

@@ -29,3 +29,8 @@ Vice-brandchef Dahlin och Brandchef Jungquist med tallrikar som räddades efter 
 ## Källor
 
 * <https://filer.hembygd.se/lomma/uploads/files/2020/06/07/Fl%C3%A4die%2024%20Bj%C3%A4rreds%20Saltsj%C3%B6bad%20branden.pdf>
+
+## Referenser till denna artikel
+
+* [Flädie Borgarbrandkår](flädie%20borgarbrandkår)
+* [Restaurangen vid Bjärreds saltsjöbad](restaurangen%20vid%20bjärreds%20saltsjöbad)
