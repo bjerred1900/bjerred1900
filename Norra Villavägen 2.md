@@ -1,8 +1,8 @@
 # Norra Villavägen 2
 
-**Norra Villavägen 2** är en [adress](adress.md) i [Bjärred](Bjärred.md) på [Norra Villavägen](Norra Villavägen.md). Här ligger [Willa Borg](Willa Borg.md).
+**Norra Villavägen 2** är en [adress](adress.md) i [Bjärred](Bjärred.md) på [Norra Villavägen](Norra%20Villavägen.md). Här ligger [Willa Borg](Willa%20Borg.md).
 
-Huset här byggdes som sommarvilla 1898, av Färgfabrikör [Berndt August Borg](Berndt August Borg.md), som ägde Borgs Färgeri och Textilfabrik på Södergatan i Lund.
+Huset här byggdes som sommarvilla 1898, av Färgfabrikör [Berndt August Borg](Berndt%20August%20Borg.md), som ägde Borgs Färgeri och Textilfabrik på Södergatan i Lund.
 Berndt Borg och Maria Pettersson (1844-1916) fick barnen: Carl Otto f.1874, Carl Johan Fredrik f.1875, Malin Othilda f.1877, Oscar August f.1878, Berndt Arvid f.1880,
 Maria Elisabet f.1881 och Ernst Knut f.1890.
 

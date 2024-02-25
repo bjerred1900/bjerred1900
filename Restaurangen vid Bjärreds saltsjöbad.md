@@ -1,6 +1,6 @@
 # Restaurangen vid Bjärreds saltsjöbad
 
-**Restaurangen vid Bjärreds saltsjöbad** var en [restaurang](restaurang.md) i [Bjärred](Bjärred.md) som tillhörde vid [Bjärreds saltsjöbad](Bjärreds saltsjöbad.md).
+**Restaurangen vid Bjärreds saltsjöbad** var en [restaurang](restaurang.md) i [Bjärred](Bjärred.md) som tillhörde vid [Bjärreds saltsjöbad](Bjärreds%20saltsjöbad.md).
 
 ## Uppdelning
 
@@ -21,11 +21,11 @@ kanske en liten segeltur.
 
 ## Ägare
 
-Restaurangen drevs av [Moje Björkman-Junggren](Moje Björkman-Junggren.md).
+Restaurangen drevs av [Moje Björkman-Junggren](Moje%20Björkman-Junggren.md).
 
 ## Brand
 
-Tyvärr brann den år [1950](1950.md) ned (se [Branden i Bjärreds saltsjöbad](Branden i Bjärreds saltsjöbad.md)).
+Tyvärr brann den år [1950](1950.md) ned (se [Branden i Bjärreds saltsjöbad](Branden%20i%20Bjärreds%20saltsjöbad.md)).
 
 En ny restaurang byggdes men den brann också på [1960](1960.md)-talet.
 

@@ -10,9 +10,9 @@ Artiklarna på _Bjerred 1900_ tar utgångspunk i året [1900](1900.md). Sen titt
 
 Detta är ett urval av artiklar som finns på sidan och som kan lämpa sig som ingångspunkter för att börja utforska Bjerred 1900.
 
-* [Bidragit med foton](Bidragit med foton.md) (för att se artiklar om vilka som bidragit med foton)
+* [Bidragit med foton](Bidragit%20med%20foton.md) (för att se artiklar om vilka som bidragit med foton)
 * [Bjerehof](Bjerehof.md)
-* [Bjärreds saltsjöbad](Bjärreds saltsjöbad.md)
+* [Bjärreds saltsjöbad](Bjärreds%20saltsjöbad.md)
 * [Område](Område.md) (för en översikt över områden som är omnämnda på sidan)
 * [Ort](Ort.md) (för en översikt över orter som är omnämnda på sidan)
 * [Person](Person.md) (för en översikt över personer som är omnämnda på sidan)

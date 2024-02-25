@@ -1,6 +1,6 @@
 # Knut Gyllin
 
-**Knut Gyllin** ([1883](1883.md)-[1963](1963.md)) var en [person](person.md) från familjen [Gyllin](Gyllin.md). Gift med [Emma Gyllin](Emma Gyllin.md). Han köpte gården [Löddesnäs gård](Löddesnäs gård.md) i [Löddesnäs](Löddesnäs.md).
+**Knut Gyllin** ([1883](1883.md)-[1963](1963.md)) var en [person](person.md) från familjen [Gyllin](Gyllin.md). Gift med [Emma Gyllin](Emma%20Gyllin.md). Han köpte gården [Löddesnäs gård](Löddesnäs%20gård.md) i [Löddesnäs](Löddesnäs.md).
 
 De fick barnen:
 
@@ -18,7 +18,7 @@ Han födde även upp ardennerhästar och ponnyhästar. Han förädlade lökväxt
 
 Han hade även försöksodlingar med rågvete och luzern, och på våren och sommaren var fälten fulla av färgrika blommor. Till gården fanns en vacker park med tre karpdammar.
 
-1939 när Gyllin köpte gården var det krig och stor bränslebrist. Han högg då ner strandskogen. som [Professor Trägårdh](Professor Trägårdh.md) lät plantera ca. 1884.
+1939 när Gyllin köpte gården var det krig och stor bränslebrist. Han högg då ner strandskogen. som [Professor Trägårdh](Professor%20Trägårdh.md) lät plantera ca. 1884.
 
 Han använde detta till bränsle i växthusen i Kvarnby.
 
@@ -34,7 +34,7 @@ Lån av John Andersson Borgeby.
 
 Knut Gyllin i Narcissodlingar på 1950-talet.
 
-Foton från [Borgeby Kulturhistoriska Forskarlags Arkiv](Borgeby Kulturhistoriska Forskarlags Arkiv.md) och med tillstånd för Publicering.
+Foton från [Borgeby Kulturhistoriska Forskarlags Arkiv](Borgeby%20Kulturhistoriska%20Forskarlags%20Arkiv.md) och med tillstånd för Publicering.
 
 ## Bilder
 

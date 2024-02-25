@@ -1,15 +1,15 @@
 # Bjärreds saltsjöbad
 
-**Bjärreds saltsjöbad** var en badanläggning vid [havet](havet.md) i [Bjärred](Bjärred.md) som uppfördes år [1901](1901.md) i samband med öppning av [Bjärreds järnvägsstation](Bjärreds järnvägsstation.md). Arkitekten var domkyrkoarkitekten [Theodor Wåhlin](Theodor Wåhlin.md). I samband med öppning planterades 50 000 (5000?) träd.
+**Bjärreds saltsjöbad** var en badanläggning vid [havet](havet.md) i [Bjärred](Bjärred.md) som uppfördes år [1901](1901.md) i samband med öppning av [Bjärreds järnvägsstation](Bjärreds%20järnvägsstation.md). Arkitekten var domkyrkoarkitekten [Theodor Wåhlin](Theodor%20Wåhlin.md). I samband med öppning planterades 50 000 (5000?) träd.
 
 ## Anläggningen
 
 ![Bjärreds_saltsjöbad_001](images/Bjärreds_saltsjöbad_001.png)
 
-* En lång [brygga](brygga.md) ([Långa bryggan](Långa bryggan.md))
+* En lång [brygga](brygga.md) ([Långa bryggan](Långa%20bryggan.md))
 * [badhotellet](badhotellet.md) (finare)
 * [turisthotellet](turisthotellet.md) (lite enklare)
-* [Restaurangen vid Bjärreds saltsjöbad](Restaurangen vid Bjärreds saltsjöbad.md)
+* [Restaurangen vid Bjärreds saltsjöbad](Restaurangen%20vid%20Bjärreds%20saltsjöbad.md)
 * [brunnkios](brunnkios.md)
 * [kägelbanor](kägelbanor.md)
 * [tennisbanor](tennisbanor.md)
@@ -31,11 +31,11 @@ Anläggningen låg i slutet av [Pilevägen](Pilevägen.md). Längst ut på brygg
 
 Där fanns även andra badbryggor i Bjärred, så som [Kolabryggan](Kolabryggan.md).
 
-[Anna Kockum](Anna Kockum.md) minns att där vid stranden fanns en ca 30 meter lång båtbrygga och en bra bit längre ut stod ett badhus på pålar. En fiskare vid namn Claus brukade ro ut barnen Kockum till badhuset och sedan låg han och sov i båten medan de badade.
+[Anna Kockum](Anna%20Kockum.md) minns att där vid stranden fanns en ca 30 meter lång båtbrygga och en bra bit längre ut stod ett badhus på pålar. En fiskare vid namn Claus brukade ro ut barnen Kockum till badhuset och sedan låg han och sov i båten medan de badade.
 
 ![Kockums_badbrygga](images/Kockums_badbrygga.png)
 
-År [1922](1922.md) bygdes [Lycksalighetens ö](Lycksalighetens ö.md).
+År [1922](1922.md) bygdes [Lycksalighetens ö](Lycksalighetens%20ö.md).
 
 ## Bilder
 

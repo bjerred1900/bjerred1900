@@ -2,7 +2,7 @@
 
 **Gamla centrum** är ett [område](område.md) i [Bjärred](Bjärred.md).
 
-* [Erik Bengtssons affär](Erik Bengtssons affär.md)
+* [Erik Bengtssons affär](Erik%20Bengtssons%20affär.md)
 
 <!-- TODO: Format and clean up text. -->
 

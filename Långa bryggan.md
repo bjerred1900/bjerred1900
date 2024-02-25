@@ -1,6 +1,6 @@
 # Långa bryggan
 
-**Långa bryggan** är en [brygga](brygga.md) i [Bjärred](Bjärred.md). Den har en historia knuten till det tidigare [Bjärreds saltsjöbad](Bjärreds saltsjöbad.md). Långa Bryggan anlades samtidigt som Bjärreds Saltsjöbad byggdes år [1901](1901.md). Då var även [järnväg](järnväg.md)en mellan [Lund](Lund.md) och Bjärred klar.
+**Långa bryggan** är en [brygga](brygga.md) i [Bjärred](Bjärred.md). Den har en historia knuten till det tidigare [Bjärreds saltsjöbad](Bjärreds%20saltsjöbad.md). Långa Bryggan anlades samtidigt som Bjärreds Saltsjöbad byggdes år [1901](1901.md). Då var även [järnväg](järnväg.md)en mellan [Lund](Lund.md) och Bjärred klar.
 
 ## Anläggning
 
@@ -14,7 +14,7 @@ Badhusets fasad var snickarglad och försedd med flaggstång på det frontespisl
 
 ## Stormar
 
-Bryggan lades ut varje vår och togs in på hösten, om inte stormen hann före. Då blev det till att snickra nya delar som ersättning. De förlorade delarna samlades väl in av de boende bortåt [Habo Ljung](Habo Ljung.md) för att värma stugorna under vintern. Under kriget behövde militärerna timmer, då försvann badhuset.
+Bryggan lades ut varje vår och togs in på hösten, om inte stormen hann före. Då blev det till att snickra nya delar som ersättning. De förlorade delarna samlades väl in av de boende bortåt [Habo Ljung](Habo%20Ljung.md) för att värma stugorna under vintern. Under kriget behövde militärerna timmer, då försvann badhuset.
 
 ## Ångbåtsförbindelse till Malmö
 

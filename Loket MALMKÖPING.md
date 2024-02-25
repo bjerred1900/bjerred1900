@@ -1,6 +1,6 @@
 # Loket MALMKÖPING
 
-**Loket MALMKÖPING** var ett [ånglok](ånglok.md) som såldes [1936](1936.md) till [Bjärred-Lund-Harlösa Järnvägar](Bjärred-Lund-Harlösa Järnvägar.md). [1957](1957.md) såldes det vidare till SSA i Hököpinge för att [1963](1963.md) övertas av Trelleborgs museum.
+**Loket MALMKÖPING** var ett [ånglok](ånglok.md) som såldes [1936](1936.md) till [Bjärred-Lund-Harlösa Järnvägar](Bjärred-Lund-Harlösa%20Järnvägar.md). [1957](1957.md) såldes det vidare till SSA i Hököpinge för att [1963](1963.md) övertas av Trelleborgs museum.
 
 Loket finns numera hos föreningen Veteranjärnvägar i Klippan.
 

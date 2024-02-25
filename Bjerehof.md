@@ -4,11 +4,11 @@ coordinates: [55.7215733, 13.0138108]
 
 # Bjerehof
 
-**Bjerehof**, ibland **Bjere Hof** eller "[Kristinas lilla by](Kristinas lilla by.md)", är ett [område](område.md) i [Bjärred](Bjärred.md). Området är numera del av ett större område vid namn [Bjärehov](Bjärehov.md). Genom Bjerehof går vägen [Bjeres väg](Bjeres väg.md).
+**Bjerehof**, ibland **Bjere Hof** eller "[Kristinas lilla by](Kristinas%20lilla%20by.md)", är ett [område](område.md) i [Bjärred](Bjärred.md). Området är numera del av ett större område vid namn [Bjärehov](Bjärehov.md). Genom Bjerehof går vägen [Bjeres väg](Bjeres%20väg.md).
 
-Det var [Per Albert Pettersson](Per Albert Pettersson.md) och [Kristina Pettersson](Kristina Pettersson.md) som [1916](1916.md) köpte marken Flädie 22,106 + 145 – 150 av Per Bengtsson och Elna Persdotter. De hade en dröm om att bygga en liten by på landet som skulle vara självförsörjande, med affärer och hantverkare. De hade haft en fastighet som hade brunnit ner, och använde försäkringspengarna till att förverkliga drömmen. Kristina flyttade hit 1918 till ett äldre hus på tomten. Mellan 1929 - 31 registrerade hon ett trevåningshus som fick namnet ”Bjere Hof” och tre tvåvåningshus samt två ekonomibyggnader. Pengarna tog slut och hon fick hyra ut ekonomibyggnaderna som sommarstugor, senare som åretruntbostäder. Här har funnits [Speceriaffär](Speceriaffär.md), [Bageri](Bageri.md), [Slakteri](Slakteri.md), [Trädgårdsmästeri](Trädgårdsmästeri.md), [Gräddbullsfabrik](Gräddbullsfabrik.md), och [Keramikverkstad](Keramikverkstad.md).
+Det var [Per Albert Pettersson](Per%20Albert%20Pettersson.md) och [Kristina Pettersson](Kristina%20Pettersson.md) som [1916](1916.md) köpte marken Flädie 22,106 + 145 – 150 av Per Bengtsson och Elna Persdotter. De hade en dröm om att bygga en liten by på landet som skulle vara självförsörjande, med affärer och hantverkare. De hade haft en fastighet som hade brunnit ner, och använde försäkringspengarna till att förverkliga drömmen. Kristina flyttade hit 1918 till ett äldre hus på tomten. Mellan 1929 - 31 registrerade hon ett trevåningshus som fick namnet ”Bjere Hof” och tre tvåvåningshus samt två ekonomibyggnader. Pengarna tog slut och hon fick hyra ut ekonomibyggnaderna som sommarstugor, senare som åretruntbostäder. Här har funnits [Speceriaffär](Speceriaffär.md), [Bageri](Bageri.md), [Slakteri](Slakteri.md), [Trädgårdsmästeri](Trädgårdsmästeri.md), [Gräddbullsfabrik](Gräddbullsfabrik.md), och [Keramikverkstad](Keramikverkstad.md).
 
-Ekonomin blev ansträngd och så småningom såldes de tre stora husen plus all mark till [Walter Reeder](Walter Reeder.md), som hade trädgårdsmästeriet vars växthus syns längst ner på flygbilden. Han bodde i villan ovanför växthusen (se bild nedan). Den hette [Beatenborg](Beatenborg.md) efter dottern Beata. Det stora huset längst ner till höger köptes av en bagare.
+Ekonomin blev ansträngd och så småningom såldes de tre stora husen plus all mark till [Walter Reeder](Walter%20Reeder.md), som hade trädgårdsmästeriet vars växthus syns längst ner på flygbilden. Han bodde i villan ovanför växthusen (se bild nedan). Den hette [Beatenborg](Beatenborg.md) efter dottern Beata. Det stora huset längst ner till höger köptes av en bagare.
 
 [Handelsträdgården](Handelsträdgården.md) på Bjerehof startades upp av Kristina Pettersson som arrenderade ut den.
 
@@ -18,10 +18,10 @@ Fastigheten blev senare uppstyckad i fyra tomter som ligger i korsningen Näkter
 
 ## Adresser
 
-* [Bjeres väg](Bjeres väg.md)
-  * [Bjeres väg 16](Bjeres väg 16.md)
-  * [Bjeres väg 18](Bjeres väg 18.md)
-  * [Bjeres väg 20](Bjeres väg 20.md)
+* [Bjeres väg](Bjeres%20väg.md)
+  * [Bjeres väg 16](Bjeres%20väg%2016.md)
+  * [Bjeres väg 18](Bjeres%20väg%2018.md)
+  * [Bjeres väg 20](Bjeres%20väg%2020.md)
 
 ## Bilder
 
@@ -34,10 +34,10 @@ Bjere Hof på 1950-talet. Längst upp till vänster Stina och Helge Nilssons gå
 ![Vykort med Flädie 22:195 och 22:194 Bjeres väg 18 och 20](images/Bjerehof_003.jpg)
 
 ![Bjerehof_004](images/Bjerehof_004.jpg)
-[Oskar Andersson](Oskar Andersson.md) i mitten med sitt arbetslag. Lån av Göta Andersson.
+[Oskar Andersson](Oskar%20Andersson.md) i mitten med sitt arbetslag. Lån av Göta Andersson.
 
 ![Bjerehof_006](images/Bjerehof_006.png)
-Växthuset. Bild från [Göta Andersson](Göta Andersson.md).
+Växthuset. Bild från [Göta Andersson](Göta%20Andersson.md).
 
 ## Källor
 
